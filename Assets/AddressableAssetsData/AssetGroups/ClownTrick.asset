@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ClownTrick
+  m_EditorClassIdentifier: 
+  m_GroupName: ClownTrick
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 53c788a6c74a404408043a8cbb4bb99c
+  m_SerializeEntries:
+  - m_GUID: 245e7d32b056d1c41aac8f105dc10a6d
+    m_Address: ClownTrick
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e831680398eeb774facca3f6db78c8b1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 21be3f41adb19864f8fd9db3b3946b38, type: 2}
+    - {fileID: 11400000, guid: 2bc87933d6ee042498b6ebcb2ae5f83c, type: 2}

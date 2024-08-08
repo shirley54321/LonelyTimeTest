@@ -1,0 +1,209 @@
+
+Spine2D_AccountFrame.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dw01
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dw02
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dw03
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dw04
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dw05
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dw06
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dw07
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dw08
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dw09
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dw10
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Dw11
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Le01
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Le02
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Le03
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Ri01
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Ri02
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Ri03
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Up01
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Up02
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Up03
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Up04
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Up05
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Up06
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Up07
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Up08
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Up09
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Up10
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Up11
+  rotate: false
+  xy: 2, 268
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+Frame
+  rotate: false
+  xy: 87, 2
+  size: 1553, 349
+  orig: 1553, 349
+  offset: 0, 0
+  index: -1

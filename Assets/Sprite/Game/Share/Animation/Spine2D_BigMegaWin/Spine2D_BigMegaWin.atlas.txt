@@ -1,0 +1,244 @@
+
+Spine2D_BigMegaWin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow
+  rotate: false
+  xy: 2, 1333
+  size: 1260, 707
+  orig: 1260, 707
+  offset: 0, 0
+  index: -1
+LStar1
+  rotate: true
+  xy: 1206, 262
+  size: 131, 129
+  orig: 131, 129
+  offset: 0, 0
+  index: -1
+LStar1Trail
+  rotate: true
+  xy: 1293, 871
+  size: 405, 209
+  orig: 405, 209
+  offset: 0, 0
+  index: -1
+LStar2
+  rotate: true
+  xy: 440, 41
+  size: 152, 155
+  orig: 152, 155
+  offset: 0, 0
+  index: -1
+LStar2Trail
+  rotate: false
+  xy: 917, 395
+  size: 486, 169
+  orig: 486, 169
+  offset: 0, 0
+  index: -1
+LStar3
+  rotate: true
+  xy: 1405, 360
+  size: 146, 147
+  orig: 146, 147
+  offset: 0, 0
+  index: -1
+LStar3Trail
+  rotate: true
+  xy: 462, 764
+  size: 567, 274
+  orig: 567, 274
+  offset: 0, 0
+  index: -1
+LStar4
+  rotate: false
+  xy: 1664, 560
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+LStar4Trail
+  rotate: true
+  xy: 261, 109
+  size: 497, 177
+  orig: 497, 177
+  offset: 0, 0
+  index: -1
+LStar5
+  rotate: true
+  xy: 261, 2
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+LStar6
+  rotate: true
+  xy: 1504, 873
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+LStar7
+  rotate: false
+  xy: 597, 50
+  size: 138, 143
+  orig: 138, 143
+  offset: 0, 0
+  index: -1
+LStar7Trail
+  rotate: true
+  xy: 738, 621
+  size: 710, 190
+  orig: 710, 190
+  offset: 0, 0
+  index: -1
+LStar8
+  rotate: true
+  xy: 1504, 1188
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+LStar8Trail
+  rotate: true
+  xy: 1264, 1660
+  size: 380, 332
+  orig: 380, 332
+  offset: 0, 0
+  index: -1
+RStar1
+  rotate: true
+  xy: 1554, 375
+  size: 131, 129
+  orig: 131, 129
+  offset: 0, 0
+  index: -1
+RStar1Trail
+  rotate: false
+  xy: 1293, 660
+  size: 405, 209
+  orig: 405, 209
+  offset: 0, 0
+  index: -1
+RStar2
+  rotate: false
+  xy: 1122, 633
+  size: 152, 155
+  orig: 152, 155
+  offset: 0, 0
+  index: -1
+RStar2Trail
+  rotate: true
+  xy: 1122, 790
+  size: 486, 169
+  orig: 486, 169
+  offset: 0, 0
+  index: -1
+RStar3
+  rotate: true
+  xy: 917, 247
+  size: 146, 147
+  orig: 146, 147
+  offset: 0, 0
+  index: -1
+RStar3Trail
+  rotate: true
+  xy: 462, 195
+  size: 567, 274
+  orig: 567, 274
+  offset: 0, 0
+  index: -1
+RStar4
+  rotate: false
+  xy: 1752, 895
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+RStar4Trail
+  rotate: true
+  xy: 738, 122
+  size: 497, 177
+  orig: 497, 177
+  offset: 0, 0
+  index: -1
+RStar5
+  rotate: true
+  xy: 1556, 553
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+RStar6
+  rotate: true
+  xy: 1628, 873
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+RStar7
+  rotate: false
+  xy: 1066, 250
+  size: 138, 143
+  orig: 138, 143
+  offset: 0, 0
+  index: -1
+RStar7Trail
+  rotate: true
+  xy: 930, 566
+  size: 710, 190
+  orig: 710, 190
+  offset: 0, 0
+  index: -1
+RStar8
+  rotate: true
+  xy: 1504, 1098
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+RStar8Trail
+  rotate: true
+  xy: 1264, 1278
+  size: 380, 332
+  orig: 380, 332
+  offset: 0, 0
+  index: -1
+Shine
+  rotate: true
+  xy: 1405, 508
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1
+Text_Big
+  rotate: true
+  xy: 2, 31
+  size: 575, 257
+  orig: 575, 257
+  offset: 0, 0
+  index: -1
+Text_Mega
+  rotate: true
+  xy: 1598, 995
+  size: 1045, 241
+  orig: 1045, 241
+  offset: 0, 0
+  index: -1
+Text_Win
+  rotate: true
+  xy: 2, 608
+  size: 723, 228
+  orig: 723, 228
+  offset: 0, 0
+  index: -1
+Text_Win2
+  rotate: true
+  xy: 232, 608
+  size: 723, 228
+  orig: 723, 228
+  offset: 0, 0
+  index: -1

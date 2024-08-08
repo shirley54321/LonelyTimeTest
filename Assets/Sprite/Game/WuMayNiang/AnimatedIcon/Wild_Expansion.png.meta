@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: 60049953dbff0734390dc2149ec8402f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6894483720128749738
+    second: Wild_Expansion_0
+  - first:
+      213: 5988635559911237511
+    second: Wild_Expansion_1
+  - first:
+      213: -6931442512296140885
+    second: Wild_Expansion_2
+  - first:
+      213: 5912109754708845559
+    second: Wild_Expansion_3
+  - first:
+      213: 5841935715701010974
+    second: Wild_Expansion_4
+  - first:
+      213: 4304979672110283257
+    second: Wild_Expansion_5
+  - first:
+      213: -699290053611343934
+    second: Wild_Expansion_6
+  - first:
+      213: 654154130167042149
+    second: Wild_Expansion_7
+  - first:
+      213: -3914522481356162004
+    second: Wild_Expansion_8
+  - first:
+      213: 691524178413490206
+    second: Wild_Expansion_9
+  - first:
+      213: 299131840704665961
+    second: Wild_Expansion_10
+  - first:
+      213: 4488543830842250662
+    second: Wild_Expansion_11
+  - first:
+      213: 4062745083069746515
+    second: Wild_Expansion_12
+  - first:
+      213: -2058084276275747191
+    second: Wild_Expansion_13
+  - first:
+      213: 8808574496067195026
+    second: Wild_Expansion_14
+  - first:
+      213: 1186908600663251844
+    second: Wild_Expansion_15
+  - first:
+      213: 25122500744108994
+    second: Wild_Expansion_16
+  - first:
+      213: -1262239132475983365
+    second: Wild_Expansion_17
+  - first:
+      213: -354759978338736115
+    second: Wild_Expansion_18
+  - first:
+      213: -6662544642134492799
+    second: Wild_Expansion_19
+  - first:
+      213: 923081795030566467
+    second: Wild_Expansion_20
+  - first:
+      213: -6128412584493804990
+    second: Wild_Expansion_21
+  - first:
+      213: -4422257221235040453
+    second: Wild_Expansion_22
+  - first:
+      213: 3952895714997689813
+    second: Wild_Expansion_23
+  - first:
+      213: 8628916647114104389
+    second: Wild_Expansion_24
+  - first:
+      213: -8613679494505660022
+    second: Wild_Expansion_25
+  - first:
+      213: -3445652139562479
+    second: Wild_Expansion_26
+  - first:
+      213: -7214218857378067335
+    second: Wild_Expansion_27
+  - first:
+      213: -7158379325259828423
+    second: Wild_Expansion_28
+  - first:
+      213: 2832276126819600187
+    second: Wild_Expansion_29
+  - first:
+      213: 5217060098722870964
+    second: Wild_Expansion_30
+  - first:
+      213: 4205154170974428874
+    second: Wild_Expansion_31
+  - first:
+      213: 692300389723742923
+    second: Wild_Expansion_32
+  - first:
+      213: 4955772217856039830
+    second: Wild_Expansion_33
+  - first:
+      213: 1123111175208287002
+    second: Wild_Expansion_34
+  - first:
+      213: 3634934885739316370
+    second: Wild_Expansion_35
+  - first:
+      213: 5532109591776289012
+    second: Wild_Expansion_36
+  - first:
+      213: -5323743642150165354
+    second: Wild_Expansion_37
+  - first:
+      213: -2551855036026467831
+    second: Wild_Expansion_38
+  - first:
+      213: 7856210046621280133
+    second: Wild_Expansion_39
+  - first:
+      213: 3793298316114997339
+    second: Wild_Expansion_40
+  - first:
+      213: 8773160378350122207
+    second: Wild_Expansion_41
+  - first:
+      213: -5137668655235702733
+    second: Wild_Expansion_42
+  - first:
+      213: -449413513997801659
+    second: Wild_Expansion_43
+  - first:
+      213: -2563825895402632948
+    second: Wild_Expansion_44
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wild_Expansion_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f1308c59fd150a0800000000000000
+      internalID: -6894483720128749738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78728c50058eb1350800000000000000
+      internalID: 5988635559911237511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf1c8962c19ecf90800000000000000
+      internalID: -6931442512296140885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_3
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3ea8a8f780c0250800000000000000
+      internalID: 5912109754708845559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_4
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12b60fd499b21150800000000000000
+      internalID: 5841935715701010974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_5
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f93969f33c5ebb30800000000000000
+      internalID: 4304979672110283257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_6
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf2887b66f9b46f0800000000000000
+      internalID: -699290053611343934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_7
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56016fc27b5041900800000000000000
+      internalID: 654154130167042149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_8
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c3c711b82dca9c0800000000000000
+      internalID: -3914522481356162004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_9
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e101eef8399c89900800000000000000
+      internalID: 691524178413490206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_10
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969d53203dab62400800000000000000
+      internalID: 299131840704665961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_11
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a59f1435d28a4e30800000000000000
+      internalID: 4488543830842250662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d4651b025c16830800000000000000
+      internalID: 4062745083069746515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98664c241473073e0800000000000000
+      internalID: -2058084276275747191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_14
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29096a795d75e3a70800000000000000
+      internalID: 8808574496067195026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b9363751fb87010800000000000000
+      internalID: 1186908600663251844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_16
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbd8b408c0495000800000000000000
+      internalID: 25122500744108994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_17
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9fb275230ab7ee0800000000000000
+      internalID: -1262239132475983365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_18
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d082896eda3a31bf0800000000000000
+      internalID: -354759978338736115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_19
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189346992f2e983a0800000000000000
+      internalID: -6662544642134492799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_20
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3464d6b70027fcc00800000000000000
+      internalID: 923081795030566467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_21
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2429630693183faa0800000000000000
+      internalID: -6128412584493804990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_22
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f11e6cc7cf0a2c0800000000000000
+      internalID: -4422257221235040453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_23
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddd99e95b18bd630800000000000000
+      internalID: 3952895714997689813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ed0bbf8f110c770800000000000000
+      internalID: 8628916647114104389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a818ce01320167880800000000000000
+      internalID: -8613679494505660022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_26
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aa3389232c3fff0800000000000000
+      internalID: -3445652139562479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_27
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c4e0afb22f1eb90800000000000000
+      internalID: -7214218857378067335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_28
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933336e2ee358ac90800000000000000
+      internalID: -7158379325259828423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_29
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37c6ec91244e4720800000000000000
+      internalID: 2832276126819600187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_30
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6bd34c488b66840800000000000000
+      internalID: 5217060098722870964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_31
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acedeaa4075bb5a30800000000000000
+      internalID: 4205154170974428874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_32
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc22957598b8b9900800000000000000
+      internalID: 692300389723742923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_33
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b1f09439076c440800000000000000
+      internalID: 4955772217856039830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_34
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bbf81d9a7169f00800000000000000
+      internalID: 1123111175208287002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_35
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294ca261502e17230800000000000000
+      internalID: 3634934885739316370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f06b540d5006cc40800000000000000
+      internalID: 5532109591776289012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69425662d534e16b0800000000000000
+      internalID: -5323743642150165354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_38
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ac9537d5df59cd0800000000000000
+      internalID: -2551855036026467831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_39
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58767b5d96dd60d60800000000000000
+      internalID: 7856210046621280133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_40
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b503f1388b084a430800000000000000
+      internalID: 3793298316114997339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_41
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd43715c1e680c970800000000000000
+      internalID: 8773160378350122207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_42
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330640f149553b8b0800000000000000
+      internalID: -5137668655235702733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_43
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547a6e44acc53c9f0800000000000000
+      internalID: -449413513997801659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wild_Expansion_44
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09049e8ee57b6cd0800000000000000
+      internalID: -2563825895402632948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 99e66995a7a3bc34cb2ca6099e88fcc3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wild_Expansion_0: -6894483720128749738
+      Wild_Expansion_1: 5988635559911237511
+      Wild_Expansion_10: 299131840704665961
+      Wild_Expansion_11: 4488543830842250662
+      Wild_Expansion_12: 4062745083069746515
+      Wild_Expansion_13: -2058084276275747191
+      Wild_Expansion_14: 8808574496067195026
+      Wild_Expansion_15: 1186908600663251844
+      Wild_Expansion_16: 25122500744108994
+      Wild_Expansion_17: -1262239132475983365
+      Wild_Expansion_18: -354759978338736115
+      Wild_Expansion_19: -6662544642134492799
+      Wild_Expansion_2: -6931442512296140885
+      Wild_Expansion_20: 923081795030566467
+      Wild_Expansion_21: -6128412584493804990
+      Wild_Expansion_22: -4422257221235040453
+      Wild_Expansion_23: 3952895714997689813
+      Wild_Expansion_24: 8628916647114104389
+      Wild_Expansion_25: -8613679494505660022
+      Wild_Expansion_26: -3445652139562479
+      Wild_Expansion_27: -7214218857378067335
+      Wild_Expansion_28: -7158379325259828423
+      Wild_Expansion_29: 2832276126819600187
+      Wild_Expansion_3: 5912109754708845559
+      Wild_Expansion_30: 5217060098722870964
+      Wild_Expansion_31: 4205154170974428874
+      Wild_Expansion_32: 692300389723742923
+      Wild_Expansion_33: 4955772217856039830
+      Wild_Expansion_34: 1123111175208287002
+      Wild_Expansion_35: 3634934885739316370
+      Wild_Expansion_36: 5532109591776289012
+      Wild_Expansion_37: -5323743642150165354
+      Wild_Expansion_38: -2551855036026467831
+      Wild_Expansion_39: 7856210046621280133
+      Wild_Expansion_4: 5841935715701010974
+      Wild_Expansion_40: 3793298316114997339
+      Wild_Expansion_41: 8773160378350122207
+      Wild_Expansion_42: -5137668655235702733
+      Wild_Expansion_43: -449413513997801659
+      Wild_Expansion_44: -2563825895402632948
+      Wild_Expansion_5: 4304979672110283257
+      Wild_Expansion_6: -699290053611343934
+      Wild_Expansion_7: 654154130167042149
+      Wild_Expansion_8: -3914522481356162004
+      Wild_Expansion_9: 691524178413490206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

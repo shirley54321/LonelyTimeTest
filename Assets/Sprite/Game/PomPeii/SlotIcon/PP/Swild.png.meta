@@ -1,0 +1,1304 @@
+fileFormatVersion: 2
+guid: aa0ca50d9054d314abceeb9e4ef5fc2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5572806225550348594
+    second: Swild_0
+  - first:
+      213: -8734882366402524542
+    second: Swild_1
+  - first:
+      213: 15845288293258941
+    second: Swild_2
+  - first:
+      213: -1743202031224105044
+    second: Swild_3
+  - first:
+      213: 327318555885283298
+    second: Swild_4
+  - first:
+      213: 918176632724083234
+    second: Swild_5
+  - first:
+      213: -4967421191117117980
+    second: Swild_6
+  - first:
+      213: -4669981181807794190
+    second: Swild_7
+  - first:
+      213: -5036351565964337250
+    second: Swild_8
+  - first:
+      213: 1643679181377827511
+    second: Swild_9
+  - first:
+      213: 1409463784409171721
+    second: Swild_10
+  - first:
+      213: -6667083971648556703
+    second: Swild_11
+  - first:
+      213: -7376275448549761774
+    second: Swild_12
+  - first:
+      213: 7279891087810475812
+    second: Swild_13
+  - first:
+      213: -3610341066838481694
+    second: Swild_14
+  - first:
+      213: 2737374686525439085
+    second: Swild_15
+  - first:
+      213: 35138251703691520
+    second: Swild_16
+  - first:
+      213: -1601725902850000994
+    second: Swild_17
+  - first:
+      213: 3450235975758149596
+    second: Swild_18
+  - first:
+      213: -665177681406132197
+    second: Swild_19
+  - first:
+      213: 3704241285469835757
+    second: Swild_20
+  - first:
+      213: 8473059412719839364
+    second: Swild_21
+  - first:
+      213: -7981397973454430280
+    second: Swild_22
+  - first:
+      213: -741373073908047467
+    second: Swild_23
+  - first:
+      213: 142735295991169574
+    second: Swild_24
+  - first:
+      213: -3438406410635531398
+    second: Swild_25
+  - first:
+      213: 4800863869712762316
+    second: Swild_26
+  - first:
+      213: 7182285833720858530
+    second: Swild_27
+  - first:
+      213: -1305631408985730223
+    second: Swild_28
+  - first:
+      213: 4643260825786724928
+    second: Swild_29
+  - first:
+      213: -4362407701253921124
+    second: Swild_30
+  - first:
+      213: 8054088187627849185
+    second: Swild_31
+  - first:
+      213: 8505410840949251374
+    second: Swild_32
+  - first:
+      213: 1749437727608603267
+    second: Swild_33
+  - first:
+      213: 4627374030519250019
+    second: Swild_34
+  - first:
+      213: 5285918060886684728
+    second: Swild_35
+  - first:
+      213: -3029022007746095463
+    second: Swild_36
+  - first:
+      213: 6034334064270922229
+    second: Swild_37
+  - first:
+      213: 4131061743307060720
+    second: Swild_38
+  - first:
+      213: -2664768222479879757
+    second: Swild_39
+  - first:
+      213: 8361496112441307429
+    second: Swild_40
+  - first:
+      213: -2961218259660088649
+    second: Swild_41
+  - first:
+      213: 461531988636216733
+    second: Swild_42
+  - first:
+      213: 8867010516149741841
+    second: Swild_43
+  - first:
+      213: -2258277027339443363
+    second: Swild_44
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swild_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece6cfb834a69a2b0800000000000000
+      internalID: -5572806225550348594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1386
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a01c364c677c680800000000000000
+      internalID: -8734882366402524542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1386
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6551ca43b483000800000000000000
+      internalID: 15845288293258941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1386
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7d52d0df6eec7e0800000000000000
+      internalID: -1743202031224105044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_4
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1386
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7afeb0e7eda8400800000000000000
+      internalID: 327318555885283298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_5
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1386
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222559268c40ebc00800000000000000
+      internalID: 918176632724083234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1188
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e567b5cebc201bb0800000000000000
+      internalID: -4967421191117117980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1188
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f766969bd4e03fb0800000000000000
+      internalID: -4669981181807794190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_8
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1188
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f96ba3fe84b1ab0800000000000000
+      internalID: -5036351565964337250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_9
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1188
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2fab2c1858fc610800000000000000
+      internalID: 1643679181377827511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_10
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1188
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9078c7128db6f8310800000000000000
+      internalID: 1409463784409171721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_11
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1188
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161ff269372c973a0800000000000000
+      internalID: -6667083971648556703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 990
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d91cb8f8432a990800000000000000
+      internalID: -7376275448549761774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 990
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427b974bf5e570560800000000000000
+      internalID: 7279891087810475812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_14
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 990
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e466199ded75edc0800000000000000
+      internalID: -3610341066838481694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_15
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 990
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cbe7f26cb1df520800000000000000
+      internalID: 2737374686525439085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_16
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 990
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009a3d2cd06dc7000800000000000000
+      internalID: 35138251703691520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_17
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 990
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97751517c685c9e0800000000000000
+      internalID: -1601725902850000994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7765ef653b1ef20800000000000000
+      internalID: 3450235975758149596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_19
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 792
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10054b4c60d4c6f0800000000000000
+      internalID: -665177681406132197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_20
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 792
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de114ceb2db186330800000000000000
+      internalID: 3704241285469835757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_21
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 792
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48822f7c4aa569570800000000000000
+      internalID: 8473059412719839364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_22
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 792
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfd93594d06c3190800000000000000
+      internalID: -7981397973454430280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_23
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 792
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591eba30e1d16b5f0800000000000000
+      internalID: -741373073908047467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622c676def81bf100800000000000000
+      internalID: 142735295991169574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_25
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 594
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ba4a446935840d0800000000000000
+      internalID: -3438406410635531398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 594
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc58c31e04810a240800000000000000
+      internalID: 4800863869712762316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_27
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 594
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7804299ea9ca360800000000000000
+      internalID: 7182285833720858530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_28
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 594
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15310dba62771ede0800000000000000
+      internalID: -1305631408985730223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_29
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 594
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0423188be1d207040800000000000000
+      internalID: 4643260825786724928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96e4590f4d9573c0800000000000000
+      internalID: -4362407701253921124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 396
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e54a35c88ed5cf60800000000000000
+      internalID: 8054088187627849185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_32
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 396
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d5983a81a490670800000000000000
+      internalID: 8505410840949251374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_33
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 396
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38207c62850474810800000000000000
+      internalID: 1749437727608603267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_34
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 396
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ca7f3f92cb73040800000000000000
+      internalID: 4627374030519250019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_35
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 396
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834f8fa687a5b5940800000000000000
+      internalID: 5285918060886684728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996147b4880c6f5d0800000000000000
+      internalID: -3029022007746095463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_37
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 198
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f158e43cd24eb350800000000000000
+      internalID: 6034334064270922229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_38
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 198
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5f50ba4ca745930800000000000000
+      internalID: 4131061743307060720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_39
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 198
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b176529b67d40bd0800000000000000
+      internalID: -2664768222479879757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_40
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 198
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521bfd4c9600a0470800000000000000
+      internalID: 8361496112441307429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_41
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 198
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba5f8a9ea3a7e6d0800000000000000
+      internalID: -2961218259660088649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d242bf5e0b76600800000000000000
+      internalID: 461531988636216733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11922c2c513fd0b70800000000000000
+      internalID: 8867010516149741841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swild_44
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 305
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53e10d220df8a0e0800000000000000
+      internalID: -2258277027339443363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b7dc95b8751e3494fa9d1e2f4f669ad5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Swild_0: -5572806225550348594
+      Swild_1: -8734882366402524542
+      Swild_10: 1409463784409171721
+      Swild_11: -6667083971648556703
+      Swild_12: -7376275448549761774
+      Swild_13: 7279891087810475812
+      Swild_14: -3610341066838481694
+      Swild_15: 2737374686525439085
+      Swild_16: 35138251703691520
+      Swild_17: -1601725902850000994
+      Swild_18: 3450235975758149596
+      Swild_19: -665177681406132197
+      Swild_2: 15845288293258941
+      Swild_20: 3704241285469835757
+      Swild_21: 8473059412719839364
+      Swild_22: -7981397973454430280
+      Swild_23: -741373073908047467
+      Swild_24: 142735295991169574
+      Swild_25: -3438406410635531398
+      Swild_26: 4800863869712762316
+      Swild_27: 7182285833720858530
+      Swild_28: -1305631408985730223
+      Swild_29: 4643260825786724928
+      Swild_3: -1743202031224105044
+      Swild_30: -4362407701253921124
+      Swild_31: 8054088187627849185
+      Swild_32: 8505410840949251374
+      Swild_33: 1749437727608603267
+      Swild_34: 4627374030519250019
+      Swild_35: 5285918060886684728
+      Swild_36: -3029022007746095463
+      Swild_37: 6034334064270922229
+      Swild_38: 4131061743307060720
+      Swild_39: -2664768222479879757
+      Swild_4: 327318555885283298
+      Swild_40: 8361496112441307429
+      Swild_41: -2961218259660088649
+      Swild_42: 461531988636216733
+      Swild_43: 8867010516149741841
+      Swild_44: -2258277027339443363
+      Swild_5: 918176632724083234
+      Swild_6: -4967421191117117980
+      Swild_7: -4669981181807794190
+      Swild_8: -5036351565964337250
+      Swild_9: 1643679181377827511
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

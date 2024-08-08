@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd833b6de0f042348b58c1210004125f, type: 3}
+  m_Name: AL_Icons Sprites DB
+  m_EditorClassIdentifier: 
+  items:
+  - id: -1
+    name: Icon_Base
+    sprite: {fileID: 21300000, guid: 5254eb2150322d44ab6b4b206d87e0c4, type: 3}
+  - id: 0
+    name: Icon_Wild
+    sprite: {fileID: 21300000, guid: bab62038935baff479f0455c11a2637f, type: 3}
+  - id: 1
+    name: Icon_Bonus
+    sprite: {fileID: 21300000, guid: 76fec2091ddf32f409dd611fd71df331, type: 3}
+  - id: 2
+    name: Icon_P1
+    sprite: {fileID: 21300000, guid: b19f0966fcc050d498dfd01c98d05963, type: 3}
+  - id: 3
+    name: Icon_P2
+    sprite: {fileID: 21300000, guid: 927b209bb87460a4fb06ac797d7ed096, type: 3}
+  - id: 4
+    name: Icon_P3
+    sprite: {fileID: 21300000, guid: 4fe23cafa5672ba499ebdcaa616786c7, type: 3}
+  - id: 5
+    name: Icon_P4
+    sprite: {fileID: 21300000, guid: 90313aebd3cb3a84fbbd3d113ff56586, type: 3}
+  - id: 6
+    name: Icon_A
+    sprite: {fileID: 21300000, guid: 1c810dcb2a815454f92dbf426e8facd5, type: 3}
+  - id: 7
+    name: Icon_K
+    sprite: {fileID: 21300000, guid: 340c6ae3d95f82744afd9bc1ef474339, type: 3}
+  - id: 8
+    name: Icon_Q
+    sprite: {fileID: 21300000, guid: 8cced940e29952f4a9b11c3143ccedf7, type: 3}
+  - id: 9
+    name: Icon_J
+    sprite: {fileID: 21300000, guid: 421078ce041dbb4488706a397edc5519, type: 3}
+  - id: 10
+    name: Icon_10
+    sprite: {fileID: 21300000, guid: 775fd445a54f5d24292d0102beefea22, type: 3}
+  - id: 11
+    name: Icon_9
+    sprite: {fileID: 21300000, guid: 9c7d47dd7ba13584690836f5ee3b8233, type: 3}
+  - id: 12
+    name: Icon_swild
+    sprite: {fileID: 21300000, guid: aafe5f4db9219eb408ce14e46fee8ac9, type: 3}

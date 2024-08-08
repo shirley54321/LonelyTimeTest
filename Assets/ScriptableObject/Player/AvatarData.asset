@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 244266546430949dfa8f414484fe1dd5, type: 3}
+  m_Name: AvatarData
+  m_EditorClassIdentifier: 
+  Avatars:
+  - Sprite: {fileID: 21300000, guid: 5f9e54837d262784fb916b41a413f168, type: 3}
+    Url: https://imgur.com/Ui7p2Wp.png
+    IsDefault: 1
+  - Sprite: {fileID: 21300000, guid: 898e9ed777bf22746883f487cb223086, type: 3}
+    Url: https://imgur.com/eR7EnQZ.png
+    IsDefault: 1
+  - Sprite: {fileID: 21300000, guid: 775dd66ae1a24c344a62a3c9fd52f1da, type: 3}
+    Url: https://imgur.com/nCPcLky.png
+    IsDefault: 1
+  - Sprite: {fileID: 21300000, guid: 86b231033a51ee14d8631ad2e30b1b97, type: 3}
+    Url: https://imgur.com/gJkb3QM.png
+    IsDefault: 1
+  - Sprite: {fileID: 21300000, guid: 5d2d3a634b607f240926181adbc101c6, type: 3}
+    Url: https://imgur.com/cRoLJZJ.png
+    IsDefault: 1
+  - Sprite: {fileID: 21300000, guid: 4a014eaa9dc398241b75eb3f5917e294, type: 3}
+    Url: https://imgur.com/gCLRVd5.png
+    IsDefault: 1
+  - Sprite: {fileID: 21300000, guid: adcadcf660cf6dc4cb097be4a500cb54, type: 3}
+    Url: https://imgur.com/4WJUgAi
+    IsDefault: 1
+  - Sprite: {fileID: 21300000, guid: 308dcb47b94cc124c81393a3907d365a, type: 3}
+    Url: https://imgur.com/mZjQRVn
+    IsDefault: 1
+  - Sprite: {fileID: 21300000, guid: 1af238c00e4c3a64db2aca28a47dd02c, type: 3}
+    Url: https://imgur.com/rbTnTo1
+    IsDefault: 1
+  - Sprite: {fileID: 21300000, guid: c6e68ce6f6b11814a85f24f12f82cce3, type: 3}
+    Url: https://imgur.com/vmXgH7n
+    IsDefault: 1
+  - Sprite: {fileID: 21300000, guid: 1ee0fef4c67aee24bb88d8a2ea639d9e, type: 3}
+    Url: https://imgur.com/zuKV1vs
+    IsDefault: 1

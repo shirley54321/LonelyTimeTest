@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bea0c80f62143684e96592438650ddd8, type: 3}
+  m_Name: ED_RollingMusicAudioClipsDB
+  m_EditorClassIdentifier: 
+  _items:
+  - id: 0
+    name: 
+    audioClip: {fileID: 8300000, guid: 62cb7b691edc2fd4c855ea390ffc0f86, type: 3}
+  - id: 1
+    name: 
+    audioClip: {fileID: 8300000, guid: 6b0f23ebade021f4c81689c22b8a9091, type: 3}
+  - id: 2
+    name: 
+    audioClip: {fileID: 8300000, guid: 8d4d3c3277819744296204298883143c, type: 3}

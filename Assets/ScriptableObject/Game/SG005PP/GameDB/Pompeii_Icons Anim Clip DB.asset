@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: decfe9d6d899f8648969ef832d03e0bd, type: 3}
+  m_Name: Pompeii_Icons Anim Clip DB
+  m_EditorClassIdentifier: 
+  items:
+  - id: -1
+    name: Swild
+    animClip: {fileID: 7400000, guid: 1165194c656fbdb448f7f12388b70676, type: 2}
+  - id: 0
+    name: Wild
+    animClip: {fileID: 7400000, guid: 54b403c44b192f54e8c48be34ba802e2, type: 2}
+  - id: 1
+    name: Bonus
+    animClip: {fileID: 7400000, guid: 75a8a85162b958642a3169035516893e, type: 2}
+  - id: 2
+    name: P1
+    animClip: {fileID: 7400000, guid: fb59e282ef6c36b49b3d93a5f70df952, type: 2}
+  - id: 3
+    name: P2
+    animClip: {fileID: 7400000, guid: ed9ed7a772951f04ea420af4d232a335, type: 2}
+  - id: 4
+    name: P3
+    animClip: {fileID: 7400000, guid: ff7080a733689f145a973124a8d3c1e0, type: 2}
+  - id: 5
+    name: P4
+    animClip: {fileID: 7400000, guid: 3b851e866e96b784ebdfe45b7c680ec7, type: 2}
+  - id: 6
+    name: P5
+    animClip: {fileID: 7400000, guid: be6e83a72571e5646b02fe08ae27c441, type: 2}
+  - id: 7
+    name: A
+    animClip: {fileID: 7400000, guid: 4b763e28c414b1e419a000c8fba0b576, type: 2}
+  - id: 8
+    name: K
+    animClip: {fileID: 7400000, guid: be3a7a1bd5ef67b43be245728f40a287, type: 2}
+  - id: 9
+    name: Q
+    animClip: {fileID: 7400000, guid: 0091c93aac9f13142a52fbe7f81b0975, type: 2}
+  - id: 10
+    name: J
+    animClip: {fileID: 7400000, guid: 6f8d71264fb66d64ea4acb026cfae094, type: 2}
+  - id: 11
+    name: 10
+    animClip: {fileID: 7400000, guid: 72455cca0d10283448aed323e83f92e0, type: 2}

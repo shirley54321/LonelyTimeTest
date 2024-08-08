@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f2e23afc3076794bbf3894576917e73, type: 3}
+  m_Name: AL_Pay Table DB
+  m_EditorClassIdentifier: 
+  iconPaysInfos:
+  - id: 0
+    name: Wild
+    paysInfo: 0000000000000000140000009600000090010000
+  - id: 1
+    name: Bonus
+    paysInfo: 000000000000000064000000e8030000400d0300
+  - id: 2
+    name: P1
+    paysInfo: 00000000000000000f000000500000002c010000
+  - id: 3
+    name: P2
+    paysInfo: 00000000000000000f00000032000000fa000000
+  - id: 4
+    name: P3
+    paysInfo: 00000000000000000a0000001e000000c8000000
+  - id: 5
+    name: P4
+    paysInfo: 00000000000000000a0000001e000000c8000000
+  - id: 6
+    name: A
+    paysInfo: 0000000000000000050000000f00000064000000
+  - id: 7
+    name: K
+    paysInfo: 0000000000000000050000000f00000064000000
+  - id: 8
+    name: Q
+    paysInfo: 0000000000000000050000000f00000064000000
+  - id: 9
+    name: J
+    paysInfo: 0000000000000000050000000a00000050000000
+  - id: 10
+    name: 10
+    paysInfo: 0000000000000000050000000a00000050000000
+  - id: 11
+    name: 9
+    paysInfo: 0000000000000000050000000a00000050000000
+  - id: 12
+    name: Swild
+    paysInfo: 0000000000000000050000000a00000050000000

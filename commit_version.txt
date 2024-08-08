@@ -1,0 +1,2 @@
+Commit ID: C:\Users\User\Documents\project_20240808083335>git rev-parse HEAD 
+e601a04675cbb21ec7155c82efbdf94d057eda02

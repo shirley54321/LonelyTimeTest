@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: decfe9d6d899f8648969ef832d03e0bd, type: 3}
+  m_Name: CH_Bonus Game Multiplier Animation Clips DB
+  m_EditorClassIdentifier: 
+  items:
+  - id: 0
+    name: X1
+    animClip: {fileID: 7400000, guid: 143f1db2fded44e5fa4dd79477a8e849, type: 2}
+  - id: 1
+    name: X2
+    animClip: {fileID: 7400000, guid: e79912301379042fe9c809196bb146a5, type: 2}
+  - id: 2
+    name: X4
+    animClip: {fileID: 7400000, guid: 65320b12799854dd8ab845e27465fe0d, type: 2}
+  - id: 3
+    name: X8
+    animClip: {fileID: 7400000, guid: 085a1ce23df4c473491b0acc9b6d7c91, type: 2}
+  - id: 4
+    name: X16
+    animClip: {fileID: 7400000, guid: 52a27f3509834498cbe30bf25fb27b65, type: 2}
+  - id: 5
+    name: X32
+    animClip: {fileID: 7400000, guid: cb0c525705d024ff3b8f0d7e27dc8e38, type: 2}
+  - id: 6
+    name: X64
+    animClip: {fileID: 7400000, guid: b3377bb112f4045f7b75f5227e939642, type: 2}

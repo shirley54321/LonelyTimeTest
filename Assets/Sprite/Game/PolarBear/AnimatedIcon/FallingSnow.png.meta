@@ -1,0 +1,1340 @@
+fileFormatVersion: 2
+guid: 4a87ef04667e22940ab08ad8bea57e80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8481113422066974412
+    second: FallingSnow_0
+  - first:
+      213: 8452747599567795862
+    second: FallingSnow_1
+  - first:
+      213: 5069655400111487071
+    second: FallingSnow_2
+  - first:
+      213: -3369927102332124065
+    second: FallingSnow_3
+  - first:
+      213: -7914632540242779982
+    second: FallingSnow_4
+  - first:
+      213: 2374259000098829784
+    second: FallingSnow_5
+  - first:
+      213: 2402585414612231527
+    second: FallingSnow_6
+  - first:
+      213: -3832867212782424948
+    second: FallingSnow_7
+  - first:
+      213: 5465246335818660583
+    second: FallingSnow_8
+  - first:
+      213: -3462884657478775515
+    second: FallingSnow_9
+  - first:
+      213: 8228521804197021525
+    second: FallingSnow_10
+  - first:
+      213: -6831915419278693837
+    second: FallingSnow_11
+  - first:
+      213: -8049500058258461963
+    second: FallingSnow_12
+  - first:
+      213: -8680341705738571829
+    second: FallingSnow_13
+  - first:
+      213: 3178811273505280160
+    second: FallingSnow_14
+  - first:
+      213: 828103011236468737
+    second: FallingSnow_15
+  - first:
+      213: -8353138213402107670
+    second: FallingSnow_16
+  - first:
+      213: -3022811324562136377
+    second: FallingSnow_17
+  - first:
+      213: -7879643108946530128
+    second: FallingSnow_18
+  - first:
+      213: 643666918370693114
+    second: FallingSnow_19
+  - first:
+      213: 4471192968363151088
+    second: FallingSnow_20
+  - first:
+      213: 9014126728390097560
+    second: FallingSnow_21
+  - first:
+      213: -9049993999957737495
+    second: FallingSnow_22
+  - first:
+      213: -7313176839609873834
+    second: FallingSnow_23
+  - first:
+      213: -5440415609172088255
+    second: FallingSnow_24
+  - first:
+      213: 1839341877063356358
+    second: FallingSnow_25
+  - first:
+      213: -3095645367009764199
+    second: FallingSnow_26
+  - first:
+      213: -2208366744263773949
+    second: FallingSnow_27
+  - first:
+      213: -1519790020144981660
+    second: FallingSnow_28
+  - first:
+      213: 9189709419121897239
+    second: FallingSnow_29
+  - first:
+      213: 2429293694460698896
+    second: FallingSnow_30
+  - first:
+      213: 6398118462089597128
+    second: FallingSnow_31
+  - first:
+      213: 2427619903157588152
+    second: FallingSnow_32
+  - first:
+      213: -831317353679642535
+    second: FallingSnow_33
+  - first:
+      213: 5694538159843259120
+    second: FallingSnow_34
+  - first:
+      213: 5614401627664790156
+    second: FallingSnow_35
+  - first:
+      213: 3909302684177713312
+    second: FallingSnow_36
+  - first:
+      213: -9158846493344117333
+    second: FallingSnow_37
+  - first:
+      213: -436729323728076192
+    second: FallingSnow_38
+  - first:
+      213: -3049476554698479083
+    second: FallingSnow_39
+  - first:
+      213: -8421801443800794602
+    second: FallingSnow_40
+  - first:
+      213: 6294399386088584428
+    second: FallingSnow_41
+  - first:
+      213: -3206745301100699758
+    second: FallingSnow_42
+  - first:
+      213: -2399995252140287817
+    second: FallingSnow_43
+  - first:
+      213: -5095759575143478104
+    second: FallingSnow_44
+  - first:
+      213: 5958159478244151644
+    second: FallingSnow_45
+  - first:
+      213: 8722952724962264169
+    second: FallingSnow_46
+  - first:
+      213: 477977650465561425
+    second: FallingSnow_47
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 2
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FallingSnow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43186e907480d4a80800000000000000
+      internalID: -8481113422066974412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696364048213e4570800000000000000
+      internalID: 8452747599567795862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f583949e9b80b5640800000000000000
+      internalID: 5069655400111487071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_3
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f544882b72d9b31d0800000000000000
+      internalID: -3369927102332124065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e41f53a3992290800000000000000
+      internalID: -7914632540242779982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_5
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d53aa13bff03f020800000000000000
+      internalID: 2374259000098829784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_6
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7652f7484b2b75120800000000000000
+      internalID: 2402585414612231527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_7
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cacdec39beecac0800000000000000
+      internalID: -3832867212782424948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_8
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaf978169478db40800000000000000
+      internalID: 5465246335818660583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_9
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dc3dc40cc51ffc0800000000000000
+      internalID: -3462884657478775515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_10
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55748bdfbf4913270800000000000000
+      internalID: 8228521804197021525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_11
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a216a8f192031a0800000000000000
+      internalID: -6831915419278693837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa408585e6a4090800000000000000
+      internalID: -8049500058258461963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfa174853b398780800000000000000
+      internalID: -8680341705738571829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_14
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a01a4dd2086d1c20800000000000000
+      internalID: 3178811273505280160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_15
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1085e2e1d430e7b00800000000000000
+      internalID: 828103011236468737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_16
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae02d6e3d01b31c80800000000000000
+      internalID: -8353138213402107670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_17
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c22278ad11dc06d0800000000000000
+      internalID: -3022811324562136377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_18
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0336e2752e5a290800000000000000
+      internalID: -7879643108946530128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_19
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affc727e6a3cee800800000000000000
+      internalID: 643666918370693114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_20
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe8289b05edc0e30800000000000000
+      internalID: 4471192968363151088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_21
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89abb06208c981d70800000000000000
+      internalID: 9014126728390097560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_22
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef3a1de766f76280800000000000000
+      internalID: -9049993999957737495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_23
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a80774960628a90800000000000000
+      internalID: -7313176839609873834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aaec8f3d2cf74b0800000000000000
+      internalID: -5440415609172088255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf8cd221b7a68910800000000000000
+      internalID: 1839341877063356358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_26
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c9ccca0fe0a05d0800000000000000
+      internalID: -3095645367009764199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_27
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3013f52852e4a51e0800000000000000
+      internalID: -2208366744263773949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_28
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4691314670f98eae0800000000000000
+      internalID: -1519790020144981660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_29
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f62db0708688f70800000000000000
+      internalID: 9189709419121897239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_30
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0112d618eb596b120800000000000000
+      internalID: 2429293694460698896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_31
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c018b3b7deaac850800000000000000
+      internalID: 6398118462089597128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_32
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b050699073a0b120800000000000000
+      internalID: 2427619903157588152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_33
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950ae4675419674f0800000000000000
+      internalID: -831317353679642535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_34
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f23d511940170f40800000000000000
+      internalID: 5694538159843259120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_35
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b553b88c5aed40800000000000000
+      internalID: 5614401627664790156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c4e13412a04630800000000000000
+      internalID: 3909302684177713312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad44e3d3ad35e080800000000000000
+      internalID: -9158846493344117333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_38
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06201347efc60f9f0800000000000000
+      internalID: -436729323728076192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_39
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa056fa351ea5d0800000000000000
+      internalID: -3049476554698479083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_40
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ab16d1530cf1b80800000000000000
+      internalID: -8421801443800794602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_41
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce43f3a74e23a5750800000000000000
+      internalID: 6294399386088584428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_42
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f5db2832a5f73d0800000000000000
+      internalID: -3206745301100699758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_43
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8dd8da80181bed0800000000000000
+      internalID: -2399995252140287817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_44
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac07c63aa93849b0800000000000000
+      internalID: -5095759575143478104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_45
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c519edf4a72afa250800000000000000
+      internalID: 5958159478244151644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_46
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964c6e389472e0970800000000000000
+      internalID: 8722952724962264169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FallingSnow_47
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b5392042e12a600800000000000000
+      internalID: 477977650465561425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e096afbc0a91aef4bb314d7dacd6626c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FallingSnow_0: -8481113422066974412
+      FallingSnow_1: 8452747599567795862
+      FallingSnow_10: 8228521804197021525
+      FallingSnow_11: -6831915419278693837
+      FallingSnow_12: -8049500058258461963
+      FallingSnow_13: -8680341705738571829
+      FallingSnow_14: 3178811273505280160
+      FallingSnow_15: 828103011236468737
+      FallingSnow_16: -8353138213402107670
+      FallingSnow_17: -3022811324562136377
+      FallingSnow_18: -7879643108946530128
+      FallingSnow_19: 643666918370693114
+      FallingSnow_2: 5069655400111487071
+      FallingSnow_20: 4471192968363151088
+      FallingSnow_21: 9014126728390097560
+      FallingSnow_22: -9049993999957737495
+      FallingSnow_23: -7313176839609873834
+      FallingSnow_24: -5440415609172088255
+      FallingSnow_25: 1839341877063356358
+      FallingSnow_26: -3095645367009764199
+      FallingSnow_27: -2208366744263773949
+      FallingSnow_28: -1519790020144981660
+      FallingSnow_29: 9189709419121897239
+      FallingSnow_3: -3369927102332124065
+      FallingSnow_30: 2429293694460698896
+      FallingSnow_31: 6398118462089597128
+      FallingSnow_32: 2427619903157588152
+      FallingSnow_33: -831317353679642535
+      FallingSnow_34: 5694538159843259120
+      FallingSnow_35: 5614401627664790156
+      FallingSnow_36: 3909302684177713312
+      FallingSnow_37: -9158846493344117333
+      FallingSnow_38: -436729323728076192
+      FallingSnow_39: -3049476554698479083
+      FallingSnow_4: -7914632540242779982
+      FallingSnow_40: -8421801443800794602
+      FallingSnow_41: 6294399386088584428
+      FallingSnow_42: -3206745301100699758
+      FallingSnow_43: -2399995252140287817
+      FallingSnow_44: -5095759575143478104
+      FallingSnow_45: 5958159478244151644
+      FallingSnow_46: 8722952724962264169
+      FallingSnow_47: 477977650465561425
+      FallingSnow_5: 2374259000098829784
+      FallingSnow_6: 2402585414612231527
+      FallingSnow_7: -3832867212782424948
+      FallingSnow_8: 5465246335818660583
+      FallingSnow_9: -3462884657478775515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7447567208184679572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2658164350104103677}
+  - component: {fileID: 3277624390543874451}
+  - component: {fileID: 6283564660329595119}
+  - component: {fileID: 9158239407356825955}
+  m_Layer: 0
+  m_Name: UserAccountManager(Singleton)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2658164350104103677
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7447567208184679572}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1446.9412, y: 463.01318, z: -9.906985}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3277624390543874451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7447567208184679572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9a22275f43eb47e8aff67a33aafcd72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _loginResult:
+    EntityToken:
+      Entity:
+        Id: 
+        Type: 
+      EntityToken: 
+    InfoResultPayload:
+      AccountInfo:
+        AndroidDeviceInfo:
+          AndroidDeviceId: 
+        AppleAccountInfo:
+          AppleSubjectId: 
+        CustomIdInfo:
+          CustomId: 
+        FacebookInfo:
+          FacebookId: 
+          FullName: 
+        FacebookInstantGamesIdInfo:
+          FacebookInstantGamesId: 
+        GameCenterInfo:
+          GameCenterId: 
+        GoogleInfo:
+          GoogleEmail: 
+          GoogleGender: 
+          GoogleId: 
+          GoogleLocale: 
+          GoogleName: 
+        GooglePlayGamesInfo:
+          GooglePlayGamesPlayerAvatarImageUrl: 
+          GooglePlayGamesPlayerDisplayName: 
+          GooglePlayGamesPlayerId: 
+        IosDeviceInfo:
+          IosDeviceId: 
+        KongregateInfo:
+          KongregateId: 
+          KongregateName: 
+        NintendoSwitchAccountInfo:
+          NintendoSwitchAccountSubjectId: 
+        NintendoSwitchDeviceIdInfo:
+          NintendoSwitchDeviceId: 
+        OpenIdInfo: []
+        PlayFabId: 
+        PrivateInfo:
+          Email: 
+        PsnInfo:
+          PsnAccountId: 
+          PsnOnlineId: 
+        ServerCustomIdInfo:
+          CustomId: 
+        SteamInfo:
+          SteamCountry: 
+          SteamId: 
+          SteamName: 
+        TitleInfo:
+          AvatarUrl: 
+          DisplayName: 
+          TitlePlayerAccount:
+            Id: 
+            Type: 
+        TwitchInfo:
+          TwitchId: 
+          TwitchUserName: 
+        Username: 
+        XboxInfo:
+          XboxUserId: 
+          XboxUserSandbox: 
+      CharacterInventories: []
+      CharacterList: []
+      PlayerProfile:
+        AdCampaignAttributions: []
+        AvatarUrl: 
+        ContactEmailAddresses: []
+        DisplayName: 
+        ExperimentVariants: []
+        LinkedAccounts: []
+        Locations: []
+        Memberships: []
+        PlayerId: 
+        PublisherId: 
+        PushNotificationRegistrations: []
+        Statistics: []
+        Tags: []
+        TitleId: 
+        ValuesToDate: []
+      PlayerStatistics: []
+      UserDataVersion: 0
+      UserInventory: []
+      UserReadOnlyDataVersion: 0
+    NewlyCreated: 0
+    PlayFabId: 
+    SessionTicket: 
+    SettingsForUser:
+      GatherDeviceInfo: 0
+      GatherFocusInfo: 0
+      NeedsAttribution: 0
+    TreatmentAssignment:
+      Variables: []
+      Variants: []
+  haveLogin: 0
+  haveLinkPhone: 0
+--- !u!114 &6283564660329595119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7447567208184679572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2865f9a1c65143ff9c0cef433e7a19ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _accountName: 
+  _password: 
+--- !u!114 &9158239407356825955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7447567208184679572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e06f991b2884d2b99bd32f8150502f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LoginOnStart: 0
+  accountName: 
+  password: 

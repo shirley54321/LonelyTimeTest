@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2e498c33769f7446a119465eba39d82, type: 3}
+  m_Name: CT_Game Info DB
+  m_EditorClassIdentifier: 
+  _reelsAmount: 5
+  _showedIconsAmountPerReel: 4
+  bonusOccurredType: 1
+  _firstReelIndicesWhichContainsTheIcon: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  _wildIconId: 0
+  _bonusIconId: 1
+  _requiredIconAmountForBonusOccurring: 3
+  _waitingForBonusReel: 0000010000
+  swildOccurredType: 1
+  _swildIconId: -1

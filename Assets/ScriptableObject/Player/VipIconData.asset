@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25c590169f79f47128dff1de797bcb9b, type: 3}
+  m_Name: VipIconData
+  m_EditorClassIdentifier: 
+  icons:
+  - {fileID: 21300000, guid: 29f4d733b7461904e86d8f7dd60b04e8, type: 3}
+  - {fileID: 21300000, guid: 94e77352bce93974da57e50f703b62c3, type: 3}
+  - {fileID: 21300000, guid: e54f26a10934e0d44b22ed4c65008e66, type: 3}
+  - {fileID: 21300000, guid: fc3d3597f3f248b4aad305a10d06e922, type: 3}
+  - {fileID: 21300000, guid: 8fb595e8af08ed74692c4abd8ed97f7d, type: 3}
+  - {fileID: 21300000, guid: ee5f24073a06267459d39fc807fdd76c, type: 3}
+  - {fileID: 21300000, guid: 496d2d455cf10674b8b9d7d55d5fe15b, type: 3}
+  - {fileID: 21300000, guid: 3731ae0f2ebc3304ba64ba62b0ee5d5e, type: 3}
+  - {fileID: 21300000, guid: d5768201d8346da43b4cc7e087776d03, type: 3}

@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: 5d22270f0d02d66419f546e43beea146
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8113547557879977450
+    second: WildLocked_0
+  - first:
+      213: 9177773316152287186
+    second: WildLocked_1
+  - first:
+      213: 3500344967729902713
+    second: WildLocked_2
+  - first:
+      213: -2362370362230842070
+    second: WildLocked_3
+  - first:
+      213: 7473927096684940419
+    second: WildLocked_4
+  - first:
+      213: 5675948953133752731
+    second: WildLocked_5
+  - first:
+      213: 8029250362971963348
+    second: WildLocked_6
+  - first:
+      213: 5325864279189407625
+    second: WildLocked_7
+  - first:
+      213: 2606642950275998995
+    second: WildLocked_8
+  - first:
+      213: -5635446978305714372
+    second: WildLocked_9
+  - first:
+      213: 1071298227784628789
+    second: WildLocked_10
+  - first:
+      213: -7690882552454483493
+    second: WildLocked_11
+  - first:
+      213: 4203025471443575559
+    second: WildLocked_12
+  - first:
+      213: 1866079853878393715
+    second: WildLocked_13
+  - first:
+      213: 5542258035503810868
+    second: WildLocked_14
+  - first:
+      213: 3034427364015092388
+    second: WildLocked_15
+  - first:
+      213: -3123596712437839508
+    second: WildLocked_16
+  - first:
+      213: -8421795480966180156
+    second: WildLocked_17
+  - first:
+      213: -2644508197746833168
+    second: WildLocked_18
+  - first:
+      213: -48562698835741485
+    second: WildLocked_19
+  - first:
+      213: 5917444967575952301
+    second: WildLocked_20
+  - first:
+      213: 4173447743089726211
+    second: WildLocked_21
+  - first:
+      213: -5767788806290995525
+    second: WildLocked_22
+  - first:
+      213: -2952712901265585919
+    second: WildLocked_23
+  - first:
+      213: -2661939016581918932
+    second: WildLocked_24
+  - first:
+      213: 6591450786633209536
+    second: WildLocked_25
+  - first:
+      213: -8748375538074551024
+    second: WildLocked_26
+  - first:
+      213: 45056623108688426
+    second: WildLocked_27
+  - first:
+      213: 1812257670894713248
+    second: WildLocked_28
+  - first:
+      213: -7410111462332790571
+    second: WildLocked_29
+  - first:
+      213: 2245470987594367124
+    second: WildLocked_30
+  - first:
+      213: 4225394861136676814
+    second: WildLocked_31
+  - first:
+      213: 2479766521193609286
+    second: WildLocked_32
+  - first:
+      213: -6957505726963771177
+    second: WildLocked_33
+  - first:
+      213: 210816585779636587
+    second: WildLocked_34
+  - first:
+      213: -3291150840159964634
+    second: WildLocked_35
+  - first:
+      213: 6979497675373006400
+    second: WildLocked_36
+  - first:
+      213: 6205277874052988974
+    second: WildLocked_37
+  - first:
+      213: -1920344410311008270
+    second: WildLocked_38
+  - first:
+      213: -3521377105992956579
+    second: WildLocked_39
+  - first:
+      213: -8173107876234204748
+    second: WildLocked_40
+  - first:
+      213: 5582247114269948062
+    second: WildLocked_41
+  - first:
+      213: -5451570397699229076
+    second: WildLocked_42
+  - first:
+      213: -8436191390771412613
+    second: WildLocked_43
+  - first:
+      213: -6835075963056228955
+    second: WildLocked_44
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WildLocked_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a6358cb73e66f80800000000000000
+      internalID: -8113547557879977450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfd05284300e5f70800000000000000
+      internalID: 9177773316152287186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974fdd8d339b39030800000000000000
+      internalID: 3500344967729902713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_3
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dd1530cac273fd0800000000000000
+      internalID: -2362370362230842070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_4
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c821b8819b8b760800000000000000
+      internalID: 7473927096684940419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_5
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91a9ca108505ce40800000000000000
+      internalID: 5675948953133752731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_6
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfbe911aa0ad6f60800000000000000
+      internalID: 8029250362971963348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_7
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987c603285549e940800000000000000
+      internalID: 5325864279189407625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_8
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152a73e3f7ac2420800000000000000
+      internalID: 2606642950275998995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_9
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c371a83c4dedac1b0800000000000000
+      internalID: -5635446978305714372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_10
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53abb9bef040ede00800000000000000
+      internalID: 1071298227784628789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_11
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 2313
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd173bb011f744590800000000000000
+      internalID: -7690882552454483493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703205fc565245a30800000000000000
+      internalID: 4203025471443575559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b3fec7db5a5e910800000000000000
+      internalID: 1866079853878393715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_14
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43942c3b15e0aec40800000000000000
+      internalID: 5542258035503810868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a238d84c937c1a20800000000000000
+      internalID: 3034427364015092388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_16
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69809de651c6a4d0800000000000000
+      internalID: -3123596712437839508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_17
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2550271a5cf1b80800000000000000
+      internalID: -8421795480966180156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_18
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f801bb2ec1dc4bd0800000000000000
+      internalID: -2644508197746833168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_19
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4bf829b78735ff0800000000000000
+      internalID: -48562698835741485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_20
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab994698dcfe1250800000000000000
+      internalID: 5917444967575952301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_21
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303d4874c901be930800000000000000
+      internalID: 4173447743089726211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_22
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb60d85c3a2b4ffa0800000000000000
+      internalID: -5767788806290995525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_23
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 1542
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1090a5ca24bd507d0800000000000000
+      internalID: -2952712901265585919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fc1e66194ee0bd0800000000000000
+      internalID: -2661939016581918932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6ddb34199897b50800000000000000
+      internalID: 6591450786633209536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_26
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d795b8cc6879680800000000000000
+      internalID: -8748375538074551024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_27
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a0c2f82c210a000800000000000000
+      internalID: 45056623108688426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_28
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9f72bffbe662910800000000000000
+      internalID: 1812257670894713248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_29
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d88a9da2eef92990800000000000000
+      internalID: -7410111462332790571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_30
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490020957f3892f10800000000000000
+      internalID: 2245470987594367124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_31
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec700d53d3e93aa30800000000000000
+      internalID: 4225394861136676814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_32
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648b6ad3386e96220800000000000000
+      internalID: 2479766521193609286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_33
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8149d5769f17f90800000000000000
+      internalID: -6957505726963771177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_34
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69e72c5198fce200800000000000000
+      internalID: 210816585779636587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_35
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 771
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62279068fbb7352d0800000000000000
+      internalID: -3291150840159964634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ec54328282cd060800000000000000
+      internalID: 6979497675373006400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_37
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20058779539d1650800000000000000
+      internalID: 6205277874052988974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_38
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff5109eee09955e0800000000000000
+      internalID: -1920344410311008270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_39
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55c81ddd2e812fc0800000000000000
+      internalID: -3521377105992956579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_40
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9ec1680b9439e80800000000000000
+      internalID: -8173107876234204748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_41
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e987286ac20287d40800000000000000
+      internalID: 5582247114269948062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_42
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a3a116b912854b0800000000000000
+      internalID: -5451570397699229076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_43
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b718cdf70a0acea80800000000000000
+      internalID: -8436191390771412613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildLocked_44
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 0
+        width: 326
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f83910aee421a0800000000000000
+      internalID: -6835075963056228955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 698c6dd9dc9e3fd468266ab591261ef0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WildLocked_0: -8113547557879977450
+      WildLocked_1: 9177773316152287186
+      WildLocked_10: 1071298227784628789
+      WildLocked_11: -7690882552454483493
+      WildLocked_12: 4203025471443575559
+      WildLocked_13: 1866079853878393715
+      WildLocked_14: 5542258035503810868
+      WildLocked_15: 3034427364015092388
+      WildLocked_16: -3123596712437839508
+      WildLocked_17: -8421795480966180156
+      WildLocked_18: -2644508197746833168
+      WildLocked_19: -48562698835741485
+      WildLocked_2: 3500344967729902713
+      WildLocked_20: 5917444967575952301
+      WildLocked_21: 4173447743089726211
+      WildLocked_22: -5767788806290995525
+      WildLocked_23: -2952712901265585919
+      WildLocked_24: -2661939016581918932
+      WildLocked_25: 6591450786633209536
+      WildLocked_26: -8748375538074551024
+      WildLocked_27: 45056623108688426
+      WildLocked_28: 1812257670894713248
+      WildLocked_29: -7410111462332790571
+      WildLocked_3: -2362370362230842070
+      WildLocked_30: 2245470987594367124
+      WildLocked_31: 4225394861136676814
+      WildLocked_32: 2479766521193609286
+      WildLocked_33: -6957505726963771177
+      WildLocked_34: 210816585779636587
+      WildLocked_35: -3291150840159964634
+      WildLocked_36: 6979497675373006400
+      WildLocked_37: 6205277874052988974
+      WildLocked_38: -1920344410311008270
+      WildLocked_39: -3521377105992956579
+      WildLocked_4: 7473927096684940419
+      WildLocked_40: -8173107876234204748
+      WildLocked_41: 5582247114269948062
+      WildLocked_42: -5451570397699229076
+      WildLocked_43: -8436191390771412613
+      WildLocked_44: -6835075963056228955
+      WildLocked_5: 5675948953133752731
+      WildLocked_6: 8029250362971963348
+      WildLocked_7: 5325864279189407625
+      WildLocked_8: 2606642950275998995
+      WildLocked_9: -5635446978305714372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

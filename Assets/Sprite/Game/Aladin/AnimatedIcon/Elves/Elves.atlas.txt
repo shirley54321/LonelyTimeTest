@@ -1,0 +1,174 @@
+
+Elves.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm shadow
+  rotate: 180
+  xy: 2, 381
+  size: 217, 166
+  orig: 217, 166
+  offset: 0, 0
+  index: -1
+back arm
+  rotate: 180
+  xy: 176, 240
+  size: 161, 138
+  orig: 161, 138
+  offset: 0, 0
+  index: -1
+back ferearm
+  rotate: false
+  xy: 5, 79
+  size: 208, 89
+  orig: 208, 89
+  offset: 0, 0
+  index: -1
+back gold shadow
+  rotate: 270
+  xy: 353, 437
+  size: 243, 80
+  orig: 243, 80
+  offset: 0, 0
+  index: -1
+beard
+  rotate: 180
+  xy: 343, 1933
+  size: 88, 104
+  orig: 88, 108
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 178, 3
+  size: 181, 95
+  orig: 181, 111
+  offset: 0, 16
+  index: -1
+cheast shadow
+  rotate: true
+  xy: 339, 205
+  size: 142, 81
+  orig: 142, 81
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 363, 1287
+  size: 26, 92
+  orig: 26, 92
+  offset: 0, 0
+  index: -1
+earring
+  rotate: false
+  xy: 362, 995
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+eyes light
+  rotate: false
+  xy: 361, 34
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+forearm
+  rotate: false
+  xy: 31, 167
+  size: 177, 105
+  orig: 177, 105
+  offset: 0, 0
+  index: -1
+front sholder
+  rotate: 180
+  xy: 2, 524
+  size: 175, 225
+  orig: 175, 225
+  offset: 0, 0
+  index: -1
+gold sholder
+  rotate: false
+  xy: 358, 1504
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 200, 99
+  size: 167, 113
+  orig: 167, 113
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 261
+  size: 125, 172
+  orig: 125, 172
+  offset: 0, 0
+  index: -1
+jacket shadow
+  rotate: false
+  xy: 219, 349
+  size: 149, 157
+  orig: 149, 157
+  offset: 0, 0
+  index: -1
+lamp
+  rotate: false
+  xy: 179, 508
+  size: 180, 130
+  orig: 180, 130
+  offset: 0, 0
+  index: -1
+lamp shadow
+  rotate: true
+  xy: 359, 682
+  size: 205, 58
+  orig: 205, 58
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: 270
+  xy: 345, 1381
+  size: 121, 82
+  orig: 121, 82
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 2, 1423
+  size: 366, 613
+  orig: 366, 613
+  offset: 0, 0
+  index: -1
+stars
+  rotate: false
+  xy: 2, 1042
+  size: 359, 379
+  orig: 359, 379
+  offset: 0, 0
+  index: -1
+stone
+  rotate: false
+  xy: 354, 85
+  size: 64, 106
+  orig: 65, 106
+  offset: 1, 0
+  index: -1
+torso
+  rotate: true
+  xy: 2, 808
+  size: 232, 363
+  orig: 232, 363
+  offset: 0, 0
+  index: -1
+torso jacket shadow
+  rotate: false
+  xy: 105, 641
+  size: 252, 199
+  orig: 252, 199
+  offset: 0, 0
+  index: -1

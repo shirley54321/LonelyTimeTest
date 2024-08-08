@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 966ecf737ad5cae448083b3b45479f75, type: 3}
+  m_Name: ED_Big Win Animation Clips DB
+  m_EditorClassIdentifier: 
+  items:
+  - id: 0
+    bigWinType: 1
+    stepType: 0
+    animClip: {fileID: 7400000, guid: f021eed26e2c82a469cdbd61cca1a406, type: 2}
+  - id: 1
+    bigWinType: 1
+    stepType: 1
+    animClip: {fileID: 7400000, guid: c3199f811b7d2c043acf8851251c7b90, type: 2}
+  - id: 2
+    bigWinType: 1
+    stepType: 2
+    animClip: {fileID: 7400000, guid: fbbe9aec7f2158f4a851939d3b696d79, type: 2}
+  - id: 3
+    bigWinType: 2
+    stepType: 0
+    animClip: {fileID: 7400000, guid: 4b75abba51be4484dac6bab2b62368cb, type: 2}
+  - id: 4
+    bigWinType: 2
+    stepType: 1
+    animClip: {fileID: 7400000, guid: fcbfbba75f380e14cb95744dcb91b131, type: 2}
+  - id: 5
+    bigWinType: 2
+    stepType: 2
+    animClip: {fileID: 7400000, guid: 9d6166d78cf8ccd4e8d15de87099e85d, type: 2}
+  - id: 6
+    bigWinType: 3
+    stepType: 0
+    animClip: {fileID: 7400000, guid: 589c98dc6efe5824bb52645c4bc09ecb, type: 2}
+  - id: 7
+    bigWinType: 3
+    stepType: 1
+    animClip: {fileID: 7400000, guid: d7646531faabf3a4c9ad117741518db2, type: 2}
+  - id: 8
+    bigWinType: 3
+    stepType: 2
+    animClip: {fileID: 7400000, guid: c865185ad7ee6714a8e0d4477c045da8, type: 2}
+  - id: 9
+    bigWinType: 4
+    stepType: 0
+    animClip: {fileID: 7400000, guid: ca476ee96cdd53744b6f8a4f9837f749, type: 2}
+  - id: 10
+    bigWinType: 4
+    stepType: 1
+    animClip: {fileID: 7400000, guid: 7b3a2f4a2ee92d448b4caaf1a872353b, type: 2}
+  - id: 11
+    bigWinType: 4
+    stepType: 2
+    animClip: {fileID: 7400000, guid: e172d6ea1afcd644aafea37090b7d794, type: 2}

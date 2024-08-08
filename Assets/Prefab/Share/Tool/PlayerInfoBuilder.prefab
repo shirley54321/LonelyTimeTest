@@ -1,0 +1,270 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6929014125771274910
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 360538249365084822}
+  - component: {fileID: 1097567426279807729}
+  m_Layer: 0
+  m_Name: PlayerInfoBuilder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &360538249365084822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6929014125771274910}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2050260198202449536}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1097567426279807729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6929014125771274910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fdd38e0ce2b4fec8e576281f4bf8048, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  printUserData: 0
+  vipIconData: {fileID: 11400000, guid: a179b0cd0f0954e388dccbac3544ffb8, type: 2}
+  avatarManager: {fileID: 2302670932178681157}
+  getInfoParams:
+    GetCharacterInventories: 0
+    GetCharacterList: 0
+    GetPlayerProfile: 0
+    GetPlayerStatistics: 0
+    GetTitleData: 0
+    GetUserAccountInfo: 1
+    GetUserData: 1
+    GetUserInventory: 1
+    GetUserReadOnlyData: 1
+    GetUserVirtualCurrency: 1
+    PlayerStatisticNames: []
+    ProfileConstraints:
+      ShowAvatarUrl: 0
+      ShowBannedUntil: 0
+      ShowCampaignAttributions: 0
+      ShowContactEmailAddresses: 0
+      ShowCreated: 0
+      ShowDisplayName: 0
+      ShowExperimentVariants: 0
+      ShowLastLogin: 0
+      ShowLinkedAccounts: 0
+      ShowLocations: 0
+      ShowMemberships: 0
+      ShowOrigination: 0
+      ShowPushNotificationRegistrations: 0
+      ShowStatistics: 0
+      ShowTags: 0
+      ShowTotalValueToDateInUsd: 0
+      ShowValuesToDate: 0
+    TitleDataKeys: []
+    UserDataKeys: []
+    UserReadOnlyDataKeys: []
+  infoResult:
+    AccountInfo:
+      AndroidDeviceInfo:
+        AndroidDeviceId: 
+      AppleAccountInfo:
+        AppleSubjectId: 
+      CustomIdInfo:
+        CustomId: 
+      FacebookInfo:
+        FacebookId: 
+        FullName: 
+      FacebookInstantGamesIdInfo:
+        FacebookInstantGamesId: 
+      GameCenterInfo:
+        GameCenterId: 
+      GoogleInfo:
+        GoogleEmail: 
+        GoogleGender: 
+        GoogleId: 
+        GoogleLocale: 
+        GoogleName: 
+      GooglePlayGamesInfo:
+        GooglePlayGamesPlayerAvatarImageUrl: 
+        GooglePlayGamesPlayerDisplayName: 
+        GooglePlayGamesPlayerId: 
+      IosDeviceInfo:
+        IosDeviceId: 
+      KongregateInfo:
+        KongregateId: 
+        KongregateName: 
+      NintendoSwitchAccountInfo:
+        NintendoSwitchAccountSubjectId: 
+      NintendoSwitchDeviceIdInfo:
+        NintendoSwitchDeviceId: 
+      OpenIdInfo: []
+      PlayFabId: 
+      PrivateInfo:
+        Email: 
+      PsnInfo:
+        PsnAccountId: 
+        PsnOnlineId: 
+      ServerCustomIdInfo:
+        CustomId: 
+      SteamInfo:
+        SteamCountry: 
+        SteamId: 
+        SteamName: 
+      TitleInfo:
+        AvatarUrl: 
+        DisplayName: 
+        TitlePlayerAccount:
+          Id: 
+          Type: 
+      TwitchInfo:
+        TwitchId: 
+        TwitchUserName: 
+      Username: 
+      XboxInfo:
+        XboxUserId: 
+        XboxUserSandbox: 
+    CharacterInventories: []
+    CharacterList: []
+    PlayerProfile:
+      AdCampaignAttributions: []
+      AvatarUrl: 
+      ContactEmailAddresses: []
+      DisplayName: 
+      ExperimentVariants: []
+      LinkedAccounts: []
+      Locations: []
+      Memberships: []
+      PlayerId: 
+      PublisherId: 
+      PushNotificationRegistrations: []
+      Statistics: []
+      Tags: []
+      TitleId: 
+      ValuesToDate: []
+    PlayerStatistics: []
+    UserDataVersion: 0
+    UserInventory: []
+    UserReadOnlyDataVersion: 0
+  buildingPlayerInfo:
+    playFabId: 
+    userTitleInfo:
+      AvatarUrl: 
+      DisplayName: 
+      TitlePlayerAccount:
+        Id: 
+        Type: 
+    userProfile:
+      UID: 
+    userLevel:
+      Level: 0
+    activity:
+      TotalValue: 0
+      WeeklyValue: 0
+      WeeklyAccummulateBet: 0
+    vip:
+      level: 1
+      type: 0
+    messageBoards: []
+    avatar:
+      Sprite: {fileID: 0}
+      Url: 
+      IsDefault: 0
+    vipIcon: {fileID: 0}
+    vipLevelFromPlayFab: 0
+    dragonCoin: 0
+    dragonBall: 0
+  getAvatarFinish: 0
+  OnInfoBuilded:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!1001 &9006904392264797166
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 360538249365084822}
+    m_Modifications:
+    - target: {fileID: 1653589623868595072, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+      propertyPath: m_Name
+      value: AvatorManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 6957233609608779118, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6957233609608779118, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6957233609608779118, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6957233609608779118, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6957233609608779118, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6957233609608779118, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6957233609608779118, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6957233609608779118, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6957233609608779118, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6957233609608779118, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+--- !u!4 &2050260198202449536 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6957233609608779118, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+  m_PrefabInstance: {fileID: 9006904392264797166}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2302670932178681157 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7136596625127503531, guid: 477f05bd0a98e40d6a7dc2e556b7a991, type: 3}
+  m_PrefabInstance: {fileID: 9006904392264797166}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 560921f9058242488c16df5c76e04780, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

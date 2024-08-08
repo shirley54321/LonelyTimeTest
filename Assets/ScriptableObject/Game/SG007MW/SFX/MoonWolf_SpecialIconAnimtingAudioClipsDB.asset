@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bea0c80f62143684e96592438650ddd8, type: 3}
+  m_Name: MoonWolf_SpecialIconAnimtingAudioClipsDB
+  m_EditorClassIdentifier: 
+  _items:
+  - id: -1
+    name: Swild
+    audioClip: {fileID: 8300000, guid: f546210d64d4bf645b8e725b9749b9ac, type: 3}
+  - id: 0
+    name: Wild
+    audioClip: {fileID: 8300000, guid: 8be195ab702828e4babe035e3a93bfe5, type: 3}
+  - id: 1
+    name: Icon_P1
+    audioClip: {fileID: 8300000, guid: 955615db3bac3ee42951e783b1982bde, type: 3}
+  - id: 2
+    name: Icon_P2
+    audioClip: {fileID: 8300000, guid: a43a6f032376c3d4f83f94c6ed437b72, type: 3}

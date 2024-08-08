@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd833b6de0f042348b58c1210004125f, type: 3}
+  m_Name: ED_BackgroundSpriteDB
+  m_EditorClassIdentifier: 
+  items:
+  - id: 0
+    name: BaseGame
+    sprite: {fileID: 21300000, guid: c001f618cb716d44298cbb63f433d2ed, type: 3}
+  - id: 1
+    name: BonusGame
+    sprite: {fileID: 21300000, guid: 1814958516e04904794f874857d1b3b3, type: 3}

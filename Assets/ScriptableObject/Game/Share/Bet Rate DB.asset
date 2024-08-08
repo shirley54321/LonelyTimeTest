@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d30b00d5ac094d84e81bdec7b1172215, type: 3}
+  m_Name: Bet Rate DB
+  m_EditorClassIdentifier: 
+  betRates:
+  - hall: 1
+    betRate: 0100000002000000050000000a00000014000000
+  - hall: 2
+    betRate: 010000000200000004000000070000000a000000
+  - hall: 3
+    betRate: 0c00000010000000180000002400000032000000
+  - hall: 4
+    betRate: 3c0000005000000078000000a0000000c8000000

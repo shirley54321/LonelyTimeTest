@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bea0c80f62143684e96592438650ddd8, type: 3}
+  m_Name: PB_ReelStoppingRegularAudioClipsDB
+  m_EditorClassIdentifier: 
+  _items:
+  - id: 0
+    name: 
+    audioClip: {fileID: 8300000, guid: 3b866876ac6f80c4c941c1f9e336e4a6, type: 3}
+  - id: 1
+    name: 
+    audioClip: {fileID: 8300000, guid: 9f5e22dfa9bef8048a129126ce66199f, type: 3}
+  - id: 2
+    name: 
+    audioClip: {fileID: 8300000, guid: 4c579a5e1fc4b9143a0db24a9a701a9b, type: 3}
+  - id: 3
+    name: 
+    audioClip: {fileID: 8300000, guid: 857f36c722f9a90448ead72f90b382c5, type: 3}
+  - id: 4
+    name: 
+    audioClip: {fileID: 8300000, guid: ba6eef0f1aa777b4ea95541864f3c636, type: 3}

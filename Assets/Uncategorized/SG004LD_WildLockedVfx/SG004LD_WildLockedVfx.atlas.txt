@@ -1,0 +1,20 @@
+
+SG004LD_WildLockedVfx.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CircleDecorate
+  rotate: true
+  xy: 787, 788
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+Firecracker
+  rotate: true
+  xy: 2, 796
+  size: 84, 783
+  orig: 84, 783
+  offset: 0, 0
+  index: -1

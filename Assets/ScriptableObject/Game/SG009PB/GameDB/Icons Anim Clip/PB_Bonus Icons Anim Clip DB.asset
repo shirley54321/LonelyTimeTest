@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: decfe9d6d899f8648969ef832d03e0bd, type: 3}
+  m_Name: PB_Bonus Icons Anim Clip DB
+  m_EditorClassIdentifier: 
+  items:
+  - id: -1
+    name: WildLocked_Animation
+    animClip: {fileID: 7400000, guid: 9f2afcd2f0acf664f9a606002a9653e4, type: 2}
+  - id: 0
+    name: Wild
+    animClip: {fileID: 7400000, guid: 49a0c558ac6cec246aa596a7fd1ae074, type: 2}
+  - id: 1
+    name: Bonus
+    animClip: {fileID: 7400000, guid: e0c5db793512cff42aa0cf9f1f2e545a, type: 2}
+  - id: 2
+    name: P1
+    animClip: {fileID: 7400000, guid: b79c307d9d2162346964f11cf3456cbc, type: 2}
+  - id: 3
+    name: P2
+    animClip: {fileID: 7400000, guid: 6c3979eb8c13f504e9637e4acb3a4df6, type: 2}
+  - id: 4
+    name: P3
+    animClip: {fileID: 7400000, guid: 60d705bf47b52dc4fab08d5157270658, type: 2}
+  - id: 5
+    name: P4
+    animClip: {fileID: 7400000, guid: 22bad6f56a5618d4d8a7d74a63a1672a, type: 2}
+  - id: 6
+    name: A
+    animClip: {fileID: 7400000, guid: 1af6248e0f783c346a50c637dca06f88, type: 2}
+  - id: 7
+    name: K
+    animClip: {fileID: 7400000, guid: 8127645d46428af42ae401b852ca1803, type: 2}
+  - id: 8
+    name: Q
+    animClip: {fileID: 7400000, guid: 198f275cc9a31ce4ea3f7280ff06db94, type: 2}
+  - id: 9
+    name: J
+    animClip: {fileID: 7400000, guid: 37e872cf6aeb78c4490d60a1d91edd03, type: 2}
+  - id: 10
+    name: 10
+    animClip: {fileID: 7400000, guid: 26a9b2b47497e10429bd5e0d837e899b, type: 2}
+  - id: 11
+    name: 9
+    animClip: {fileID: 7400000, guid: 1e8111868d785e94195b11cfa2fa4b51, type: 2}

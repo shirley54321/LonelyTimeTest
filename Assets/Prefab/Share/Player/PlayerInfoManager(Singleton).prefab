@@ -1,0 +1,436 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1379443130766827160
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6918231776570914674}
+  - component: {fileID: 8358612693587141451}
+  m_Layer: 0
+  m_Name: ActivityEvent
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6918231776570914674
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1379443130766827160}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8506970917533049661}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8358612693587141451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1379443130766827160}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c66c6372019f164f9cc122dabd5c737, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &3646272186021089978
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8506970917533049661}
+  - component: {fileID: 2671462566111026774}
+  m_Layer: 0
+  m_Name: PlayerInfoManager(Singleton)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8506970917533049661
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3646272186021089978}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1659.0061, y: 343.31714, z: 2.5472603}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5343672705915248218}
+  - {fileID: 4004504911413652120}
+  - {fileID: 7652599536822961655}
+  - {fileID: 6918231776570914674}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2671462566111026774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3646272186021089978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9504181205b84f2fb66a20b8d28cafc4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _accountInfo:
+    AndroidDeviceInfo:
+      AndroidDeviceId: 
+    AppleAccountInfo:
+      AppleSubjectId: 
+    CustomIdInfo:
+      CustomId: 
+    FacebookInfo:
+      FacebookId: 
+      FullName: 
+    FacebookInstantGamesIdInfo:
+      FacebookInstantGamesId: 
+    GameCenterInfo:
+      GameCenterId: 
+    GoogleInfo:
+      GoogleEmail: 
+      GoogleGender: 
+      GoogleId: 
+      GoogleLocale: 
+      GoogleName: 
+    GooglePlayGamesInfo:
+      GooglePlayGamesPlayerAvatarImageUrl: 
+      GooglePlayGamesPlayerDisplayName: 
+      GooglePlayGamesPlayerId: 
+    IosDeviceInfo:
+      IosDeviceId: 
+    KongregateInfo:
+      KongregateId: 
+      KongregateName: 
+    NintendoSwitchAccountInfo:
+      NintendoSwitchAccountSubjectId: 
+    NintendoSwitchDeviceIdInfo:
+      NintendoSwitchDeviceId: 
+    OpenIdInfo: []
+    PlayFabId: 
+    PrivateInfo:
+      Email: 
+    PsnInfo:
+      PsnAccountId: 
+      PsnOnlineId: 
+    ServerCustomIdInfo:
+      CustomId: 
+    SteamInfo:
+      SteamCountry: 
+      SteamId: 
+      SteamName: 
+    TitleInfo:
+      AvatarUrl: 
+      DisplayName: 
+      TitlePlayerAccount:
+        Id: 
+        Type: 
+    TwitchInfo:
+      TwitchId: 
+      TwitchUserName: 
+    Username: 
+    XboxInfo:
+      XboxUserId: 
+      XboxUserSandbox: 
+  _playerInfo:
+    playFabId: 
+    userTitleInfo:
+      AvatarUrl: 
+      DisplayName: 
+      TitlePlayerAccount:
+        Id: 
+        Type: 
+    userProfile:
+      UID: 
+    userLevel:
+      Level: 0
+    activity: 0
+    activityEvent:
+      GiftExchangeValue: 0
+      TotalPlaytime: 0
+      WeeklyLogin: 
+      LimitedTimeEvent: 0
+      AccumulatedNonLogin: 0
+      Reported: 0
+    vip:
+      level: 1
+      type: 0
+    changeNameRecord:
+      haveChangedNickName: 0
+    messageBoards: []
+    avatar:
+      Sprite: {fileID: 0}
+      Url: 
+      IsDefault: 0
+    vipIcon: {fileID: 0}
+    vipLevelFromPlayFab: 0
+    dragonCoin: 0
+    dragonBall: 0
+  phoneInfo:
+    haveLinkPhone: 0
+    phoneNumber: 
+  _combinedInfoResultPayload:
+    AccountInfo:
+      AndroidDeviceInfo:
+        AndroidDeviceId: 
+      AppleAccountInfo:
+        AppleSubjectId: 
+      CustomIdInfo:
+        CustomId: 
+      FacebookInfo:
+        FacebookId: 
+        FullName: 
+      FacebookInstantGamesIdInfo:
+        FacebookInstantGamesId: 
+      GameCenterInfo:
+        GameCenterId: 
+      GoogleInfo:
+        GoogleEmail: 
+        GoogleGender: 
+        GoogleId: 
+        GoogleLocale: 
+        GoogleName: 
+      GooglePlayGamesInfo:
+        GooglePlayGamesPlayerAvatarImageUrl: 
+        GooglePlayGamesPlayerDisplayName: 
+        GooglePlayGamesPlayerId: 
+      IosDeviceInfo:
+        IosDeviceId: 
+      KongregateInfo:
+        KongregateId: 
+        KongregateName: 
+      NintendoSwitchAccountInfo:
+        NintendoSwitchAccountSubjectId: 
+      NintendoSwitchDeviceIdInfo:
+        NintendoSwitchDeviceId: 
+      OpenIdInfo: []
+      PlayFabId: 
+      PrivateInfo:
+        Email: 
+      PsnInfo:
+        PsnAccountId: 
+        PsnOnlineId: 
+      ServerCustomIdInfo:
+        CustomId: 
+      SteamInfo:
+        SteamCountry: 
+        SteamId: 
+        SteamName: 
+      TitleInfo:
+        AvatarUrl: 
+        DisplayName: 
+        TitlePlayerAccount:
+          Id: 
+          Type: 
+      TwitchInfo:
+        TwitchId: 
+        TwitchUserName: 
+      Username: 
+      XboxInfo:
+        XboxUserId: 
+        XboxUserSandbox: 
+    CharacterInventories: []
+    CharacterList: []
+    PlayerProfile:
+      AdCampaignAttributions: []
+      AvatarUrl: 
+      ContactEmailAddresses: []
+      DisplayName: 
+      ExperimentVariants: []
+      LinkedAccounts: []
+      Locations: []
+      Memberships: []
+      PlayerId: 
+      PublisherId: 
+      PushNotificationRegistrations: []
+      Statistics: []
+      Tags: []
+      TitleId: 
+      ValuesToDate: []
+    PlayerStatistics: []
+    UserDataVersion: 0
+    UserInventory: []
+    UserReadOnlyDataVersion: 0
+  localPlayerBuilder: {fileID: 4617102630947987005}
+  _vipIconData: {fileID: 11400000, guid: a179b0cd0f0954e388dccbac3544ffb8, type: 2}
+--- !u!1 &8578380806035790293
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4004504911413652120}
+  - component: {fileID: 1819101962767943963}
+  m_Layer: 0
+  m_Name: Vip Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4004504911413652120
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8578380806035790293}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8506970917533049661}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1819101962767943963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8578380806035790293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65dc0ba7a2ca3e2408111600fb9bc065, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vipRight: []
+--- !u!1 &9055749668236805023
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7652599536822961655}
+  - component: {fileID: 6230217745311407725}
+  m_Layer: 0
+  m_Name: Inventory Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7652599536822961655
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9055749668236805023}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8506970917533049661}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6230217745311407725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9055749668236805023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6dfd0e1af8421f80c8f5a9a0220dd0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &5703925077693662412
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8506970917533049661}
+    m_Modifications:
+    - target: {fileID: 360538249365084822, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 360538249365084822, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 360538249365084822, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 360538249365084822, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 360538249365084822, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 360538249365084822, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 360538249365084822, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 360538249365084822, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 360538249365084822, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 360538249365084822, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6929014125771274910, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+      propertyPath: m_Name
+      value: PlayerInfoBuilder
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+--- !u!114 &4617102630947987005 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1097567426279807729, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+  m_PrefabInstance: {fileID: 5703925077693662412}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fdd38e0ce2b4fec8e576281f4bf8048, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &5343672705915248218 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 360538249365084822, guid: a15184f1321d44d0898e08053a4752d8, type: 3}
+  m_PrefabInstance: {fileID: 5703925077693662412}
+  m_PrefabAsset: {fileID: 0}

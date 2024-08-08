@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: a505d158ac3bb2d42819f37448ee3434
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8372529298244946425
+    second: WildTrans_0
+  - first:
+      213: -7321772055747462772
+    second: WildTrans_1
+  - first:
+      213: -6507373973328983754
+    second: WildTrans_2
+  - first:
+      213: -1667634495552353938
+    second: WildTrans_3
+  - first:
+      213: -2565085350874511482
+    second: WildTrans_4
+  - first:
+      213: -1733455214044050902
+    second: WildTrans_5
+  - first:
+      213: -9109227151577585273
+    second: WildTrans_6
+  - first:
+      213: -6593465313478423559
+    second: WildTrans_7
+  - first:
+      213: 4451913438386612172
+    second: WildTrans_8
+  - first:
+      213: 8705223556206399393
+    second: WildTrans_9
+  - first:
+      213: 1704469324733230838
+    second: WildTrans_10
+  - first:
+      213: -7753061503328829768
+    second: WildTrans_11
+  - first:
+      213: 6052624362322597626
+    second: WildTrans_12
+  - first:
+      213: -1077280513698934532
+    second: WildTrans_13
+  - first:
+      213: 2087355030666718867
+    second: WildTrans_14
+  - first:
+      213: 870602142366629593
+    second: WildTrans_15
+  - first:
+      213: 1394779184940285329
+    second: WildTrans_16
+  - first:
+      213: 7823255415687791897
+    second: WildTrans_17
+  - first:
+      213: -6286445835574676660
+    second: WildTrans_18
+  - first:
+      213: 8823691516878878811
+    second: WildTrans_19
+  - first:
+      213: -2514319387270481660
+    second: WildTrans_20
+  - first:
+      213: -4203819590891611941
+    second: WildTrans_21
+  - first:
+      213: -3106353306463758661
+    second: WildTrans_22
+  - first:
+      213: 5506555617223700287
+    second: WildTrans_23
+  - first:
+      213: -6732281393191677812
+    second: WildTrans_24
+  - first:
+      213: -5846680490311742500
+    second: WildTrans_25
+  - first:
+      213: 5450353778860755369
+    second: WildTrans_26
+  - first:
+      213: -3421339015803680227
+    second: WildTrans_27
+  - first:
+      213: 6633250873598006382
+    second: WildTrans_28
+  - first:
+      213: 7526482039814804120
+    second: WildTrans_29
+  - first:
+      213: -4635109467127822386
+    second: WildTrans_30
+  - first:
+      213: -6283569399255097087
+    second: WildTrans_31
+  - first:
+      213: 7012502302386761786
+    second: WildTrans_32
+  - first:
+      213: -9078283174967110747
+    second: WildTrans_33
+  - first:
+      213: 4974635447425122550
+    second: WildTrans_34
+  - first:
+      213: -7745934006506414115
+    second: WildTrans_35
+  - first:
+      213: -2070467866324966867
+    second: WildTrans_36
+  - first:
+      213: -2256716378330303272
+    second: WildTrans_37
+  - first:
+      213: 2742262077121801394
+    second: WildTrans_38
+  - first:
+      213: -7761581333690646397
+    second: WildTrans_39
+  - first:
+      213: 1272364081177953169
+    second: WildTrans_40
+  - first:
+      213: 2371408638652640894
+    second: WildTrans_41
+  - first:
+      213: 4363634229603973098
+    second: WildTrans_42
+  - first:
+      213: -7766267193850287690
+    second: WildTrans_43
+  - first:
+      213: -4473317717158450460
+    second: WildTrans_44
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WildTrans_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9c0758903313470800000000000000
+      internalID: 8372529298244946425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c897ac29b17d36a90800000000000000
+      internalID: -7321772055747462772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6398a1b49d921b5a0800000000000000
+      internalID: -6507373973328983754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_3
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e690a65034f5bd8e0800000000000000
+      internalID: -1667634495552353938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687019ab67cf66cd0800000000000000
+      internalID: -2565085350874511482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_5
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a0bd4caa781f7e0800000000000000
+      internalID: -1733455214044050902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_6
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789efdb1b26859180800000000000000
+      internalID: -9109227151577585273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_7
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb42472b3e4f74a0800000000000000
+      internalID: -6593465313478423559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_8
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc762d95faf58cd30800000000000000
+      internalID: 4451913438386612172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_9
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8b0eb3ba2fc870800000000000000
+      internalID: 8705223556206399393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_10
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe2647f1dd77a710800000000000000
+      internalID: 1704469324733230838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_11
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 2076
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be3454e3a7976490800000000000000
+      internalID: -7753061503328829768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af61d131acd3ff350800000000000000
+      internalID: 6052624362322597626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf05689941bbc01f0800000000000000
+      internalID: -1077280513698934532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_14
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ea3035756c7fc10800000000000000
+      internalID: 2087355030666718867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_15
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9def47c2900051c00800000000000000
+      internalID: 870602142366629593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_16
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d797267404b5310800000000000000
+      internalID: 1394779184940285329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_17
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915c837e959c19c60800000000000000
+      internalID: 7823255415687791897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_18
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4376dec1de02c8a0800000000000000
+      internalID: -6286445835574676660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_19
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5871374fac047a70800000000000000
+      internalID: 8823691516878878811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_20
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4097dd5b6d75b1dd0800000000000000
+      internalID: -2514319387270481660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_21
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8d319da5809a5c0800000000000000
+      internalID: -4203819590891611941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_22
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb61e5d302404e4d0800000000000000
+      internalID: -3106353306463758661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_23
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 1384
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fec8ca8273b6c40800000000000000
+      internalID: 5506555617223700287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8096d6fdb12292a0800000000000000
+      internalID: -6732281393191677812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb03c3321b6cdea0800000000000000
+      internalID: -5846680490311742500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_26
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9043972eb83ab40800000000000000
+      internalID: 5450353778860755369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_27
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a46daca46f480d0800000000000000
+      internalID: -3421339015803680227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_28
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64dbda668a0e0c50800000000000000
+      internalID: 6633250873598006382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_29
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d487c98f637860800000000000000
+      internalID: 7526482039814804120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_30
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7cbcc5f78ccafb0800000000000000
+      internalID: -4635109467127822386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_31
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101a2e35ce64cc8a0800000000000000
+      internalID: -6283569399255097087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_32
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a303f50b0b9615160800000000000000
+      internalID: 7012502302386761786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_33
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a31ea91d85730280800000000000000
+      internalID: -9078283174967110747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_34
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f047da2594790540800000000000000
+      internalID: 4974635447425122550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_35
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 692
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf11909f0ae08490800000000000000
+      internalID: -7745934006506414115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e6d402783443e0800000000000000
+      internalID: -2070467866324966867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4f0d619688ea0e0800000000000000
+      internalID: -2256716378330303272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_38
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcaedb74d87e0620800000000000000
+      internalID: 2742262077121801394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_39
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380011e46e2594490800000000000000
+      internalID: -7761581333690646397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_40
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193049bf36858a110800000000000000
+      internalID: 1272364081177953169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_41
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eee24b79fe8e020800000000000000
+      internalID: 2371408638652640894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_42
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7b749563ebe8c30800000000000000
+      internalID: 4363634229603973098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_43
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9a8c7722da83490800000000000000
+      internalID: -7766267193850287690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildTrans_44
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 0
+        width: 267
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea2f45ac359be1c0800000000000000
+      internalID: -4473317717158450460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5651f6f8e05000a47987aba8256cc384
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WildTrans_0: 8372529298244946425
+      WildTrans_1: -7321772055747462772
+      WildTrans_10: 1704469324733230838
+      WildTrans_11: -7753061503328829768
+      WildTrans_12: 6052624362322597626
+      WildTrans_13: -1077280513698934532
+      WildTrans_14: 2087355030666718867
+      WildTrans_15: 870602142366629593
+      WildTrans_16: 1394779184940285329
+      WildTrans_17: 7823255415687791897
+      WildTrans_18: -6286445835574676660
+      WildTrans_19: 8823691516878878811
+      WildTrans_2: -6507373973328983754
+      WildTrans_20: -2514319387270481660
+      WildTrans_21: -4203819590891611941
+      WildTrans_22: -3106353306463758661
+      WildTrans_23: 5506555617223700287
+      WildTrans_24: -6732281393191677812
+      WildTrans_25: -5846680490311742500
+      WildTrans_26: 5450353778860755369
+      WildTrans_27: -3421339015803680227
+      WildTrans_28: 6633250873598006382
+      WildTrans_29: 7526482039814804120
+      WildTrans_3: -1667634495552353938
+      WildTrans_30: -4635109467127822386
+      WildTrans_31: -6283569399255097087
+      WildTrans_32: 7012502302386761786
+      WildTrans_33: -9078283174967110747
+      WildTrans_34: 4974635447425122550
+      WildTrans_35: -7745934006506414115
+      WildTrans_36: -2070467866324966867
+      WildTrans_37: -2256716378330303272
+      WildTrans_38: 2742262077121801394
+      WildTrans_39: -7761581333690646397
+      WildTrans_4: -2565085350874511482
+      WildTrans_40: 1272364081177953169
+      WildTrans_41: 2371408638652640894
+      WildTrans_42: 4363634229603973098
+      WildTrans_43: -7766267193850287690
+      WildTrans_44: -4473317717158450460
+      WildTrans_5: -1733455214044050902
+      WildTrans_6: -9109227151577585273
+      WildTrans_7: -6593465313478423559
+      WildTrans_8: 4451913438386612172
+      WildTrans_9: 8705223556206399393
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

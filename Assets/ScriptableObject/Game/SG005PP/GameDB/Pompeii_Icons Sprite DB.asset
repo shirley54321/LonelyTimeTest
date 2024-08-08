@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd833b6de0f042348b58c1210004125f, type: 3}
+  m_Name: Pompeii_Icons Sprite DB
+  m_EditorClassIdentifier: 
+  items:
+  - id: -1
+    name: Icon_Swild
+    sprite: {fileID: 21300000, guid: f32c2e8e09c6f664886586239ff6b6bb, type: 3}
+  - id: 0
+    name: Icon_Wild
+    sprite: {fileID: 21300000, guid: 1ebd7228b7f70b743a1d40987fb74faa, type: 3}
+  - id: 1
+    name: Icon_Bonus
+    sprite: {fileID: 21300000, guid: 9ec30c702aa6f6440a7c6690b8b94c73, type: 3}
+  - id: 2
+    name: Icon_P1
+    sprite: {fileID: 21300000, guid: 06460965302d9574a8958310885d6e6d, type: 3}
+  - id: 3
+    name: Icon_P2
+    sprite: {fileID: 21300000, guid: 77b1204e47d0c114ea2fdfe103c2ebca, type: 3}
+  - id: 4
+    name: Icon_P3
+    sprite: {fileID: 21300000, guid: 54facd4298494884893e59e2925aef0b, type: 3}
+  - id: 5
+    name: Icon_P4
+    sprite: {fileID: 21300000, guid: eaddf7c111382e44dbc43dafd77c911b, type: 3}
+  - id: 6
+    name: Icon_P5
+    sprite: {fileID: 21300000, guid: 9fe0087071137914db95bcfed4ccc13a, type: 3}
+  - id: 7
+    name: Icon_A
+    sprite: {fileID: 21300000, guid: 67645cdb94d0f804ba3d322e7e2c5d5d, type: 3}
+  - id: 8
+    name: Icon_K
+    sprite: {fileID: 21300000, guid: f565d6f96940818468ef362348b0dfca, type: 3}
+  - id: 9
+    name: Icon_Q
+    sprite: {fileID: 21300000, guid: 8ded0f6a842cbe44bbaa13147b2bf159, type: 3}
+  - id: 10
+    name: Icon_J
+    sprite: {fileID: 21300000, guid: b33a88c9cbe3a9e4aaf4e4a2aaf21cf4, type: 3}
+  - id: 11
+    name: Icon_10
+    sprite: {fileID: 21300000, guid: b9f31bebdf6d730479c358fcd16ba10f, type: 3}

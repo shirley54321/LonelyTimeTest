@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: db3528fcb0d8f33408beb57e1fa7030b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7963996753300561334
+    second: WildReelLockedVfx_Fire_0
+  - first:
+      213: -686897060876724710
+    second: WildReelLockedVfx_Fire_1
+  - first:
+      213: -6997642681780518491
+    second: WildReelLockedVfx_Fire_2
+  - first:
+      213: 4647961581933822556
+    second: WildReelLockedVfx_Fire_3
+  - first:
+      213: 9134306601648079413
+    second: WildReelLockedVfx_Fire_4
+  - first:
+      213: 1524755236540485505
+    second: WildReelLockedVfx_Fire_5
+  - first:
+      213: 1564065693499105205
+    second: WildReelLockedVfx_Fire_6
+  - first:
+      213: -2132304100551833658
+    second: WildReelLockedVfx_Fire_7
+  - first:
+      213: 1451779200809199230
+    second: WildReelLockedVfx_Fire_8
+  - first:
+      213: -1467346700282476963
+    second: WildReelLockedVfx_Fire_9
+  - first:
+      213: 2907411402628572719
+    second: WildReelLockedVfx_Fire_10
+  - first:
+      213: 7536279618712968044
+    second: WildReelLockedVfx_Fire_11
+  - first:
+      213: -7990783516118069596
+    second: WildReelLockedVfx_Fire_12
+  - first:
+      213: 4018846632427718248
+    second: WildReelLockedVfx_Fire_13
+  - first:
+      213: 3490924622739575220
+    second: WildReelLockedVfx_Fire_14
+  - first:
+      213: 7964287540139784609
+    second: WildReelLockedVfx_Fire_15
+  - first:
+      213: 4116704985658623631
+    second: WildReelLockedVfx_Fire_16
+  - first:
+      213: 2101092196607783381
+    second: WildReelLockedVfx_Fire_17
+  - first:
+      213: 1746251204549121279
+    second: WildReelLockedVfx_Fire_18
+  - first:
+      213: -1553972837011075762
+    second: WildReelLockedVfx_Fire_19
+  - first:
+      213: -3334648185729036433
+    second: WildReelLockedVfx_Fire_20
+  - first:
+      213: -1101560882077248492
+    second: WildReelLockedVfx_Fire_21
+  - first:
+      213: 2227751890082837597
+    second: WildReelLockedVfx_Fire_22
+  - first:
+      213: -4810204236996332488
+    second: WildReelLockedVfx_Fire_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1640
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd18d02adcc58e60800000000000000
+      internalID: 7963996753300561334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1640
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16de2133c6a776f0800000000000000
+      internalID: -686897060876724710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1640
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a14c575e0163ee90800000000000000
+      internalID: -6997642681780518491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1640
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5204dcce60e08040800000000000000
+      internalID: 4647961581933822556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1640
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5324db4657393ce70800000000000000
+      internalID: 9134306601648079413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_5
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1640
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f89632fc4092510800000000000000
+      internalID: 1524755236540485505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1640
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf9362267da4b510800000000000000
+      internalID: 1564065693499105205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1640
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7cf7dc7b88862e0800000000000000
+      internalID: -2132304100551833658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e766884cd71c52410800000000000000
+      internalID: 1451779200809199230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_9
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 820
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56425f43ffe2abe0800000000000000
+      internalID: -1467346700282476963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 820
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26a89d3443395820800000000000000
+      internalID: 2907411402628572719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_11
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 820
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b1761626e369860800000000000000
+      internalID: 7536279618712968044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_12
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 820
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4cb4aab80b1190800000000000000
+      internalID: -7990783516118069596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_13
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 820
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86601ac28bfc5c730800000000000000
+      internalID: 4018846632427718248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_14
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 820
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b19e0cd271427030800000000000000
+      internalID: 3490924622739575220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_15
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 820
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9f9173255d68e60800000000000000
+      internalID: 7964287540139784609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86034b8f59712930800000000000000
+      internalID: 4116704985658623631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1f6238834982d10800000000000000
+      internalID: 2101092196607783381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_18
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff49fbfe73eeb3810800000000000000
+      internalID: 1746251204549121279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_19
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 0
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d495320fd2f6ae0800000000000000
+      internalID: -1553972837011075762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_20
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f48be8423f8b1d0800000000000000
+      internalID: -3334648185729036433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_21
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 0
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414d15dc63876b0f0800000000000000
+      internalID: -1101560882077248492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_22
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 0
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54b7187a809aee10800000000000000
+      internalID: 2227751890082837597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WildReelLockedVfx_Fire_23
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 0
+        width: 410
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83431c46bb8be3db0800000000000000
+      internalID: -4810204236996332488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3602842c1d6768d4ba0946d6950daefd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WildReelLockedVfx_Fire_0: 7963996753300561334
+      WildReelLockedVfx_Fire_1: -686897060876724710
+      WildReelLockedVfx_Fire_10: 2907411402628572719
+      WildReelLockedVfx_Fire_11: 7536279618712968044
+      WildReelLockedVfx_Fire_12: -7990783516118069596
+      WildReelLockedVfx_Fire_13: 4018846632427718248
+      WildReelLockedVfx_Fire_14: 3490924622739575220
+      WildReelLockedVfx_Fire_15: 7964287540139784609
+      WildReelLockedVfx_Fire_16: 4116704985658623631
+      WildReelLockedVfx_Fire_17: 2101092196607783381
+      WildReelLockedVfx_Fire_18: 1746251204549121279
+      WildReelLockedVfx_Fire_19: -1553972837011075762
+      WildReelLockedVfx_Fire_2: -6997642681780518491
+      WildReelLockedVfx_Fire_20: -3334648185729036433
+      WildReelLockedVfx_Fire_21: -1101560882077248492
+      WildReelLockedVfx_Fire_22: 2227751890082837597
+      WildReelLockedVfx_Fire_23: -4810204236996332488
+      WildReelLockedVfx_Fire_3: 4647961581933822556
+      WildReelLockedVfx_Fire_4: 9134306601648079413
+      WildReelLockedVfx_Fire_5: 1524755236540485505
+      WildReelLockedVfx_Fire_6: 1564065693499105205
+      WildReelLockedVfx_Fire_7: -2132304100551833658
+      WildReelLockedVfx_Fire_8: 1451779200809199230
+      WildReelLockedVfx_Fire_9: -1467346700282476963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

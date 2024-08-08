@@ -1,0 +1,369 @@
+
+Spine2D_SuperWin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LLeaf_00000
+  rotate: true
+  xy: 1125, 1670
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00001
+  rotate: true
+  xy: 1565, 1670
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00002
+  rotate: true
+  xy: 1118, 1392
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00003
+  rotate: true
+  xy: 1558, 1392
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00004
+  rotate: true
+  xy: 2, 1204
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00005
+  rotate: true
+  xy: 442, 1204
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00006
+  rotate: true
+  xy: 882, 1114
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00007
+  rotate: true
+  xy: 1322, 1114
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00008
+  rotate: false
+  xy: 1762, 952
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00009
+  rotate: true
+  xy: 2, 926
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00010
+  rotate: true
+  xy: 442, 926
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00011
+  rotate: true
+  xy: 882, 836
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00012
+  rotate: true
+  xy: 1322, 836
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00013
+  rotate: true
+  xy: 2, 648
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00014
+  rotate: true
+  xy: 442, 648
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00015
+  rotate: true
+  xy: 882, 558
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00016
+  rotate: true
+  xy: 1322, 558
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00017
+  rotate: false
+  xy: 1762, 512
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00018
+  rotate: true
+  xy: 2, 370
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00019
+  rotate: true
+  xy: 442, 370
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+LLeaf_00020
+  rotate: true
+  xy: 882, 280
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00000
+  rotate: true
+  xy: 1322, 280
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00001
+  rotate: true
+  xy: 2, 92
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00002
+  rotate: true
+  xy: 442, 92
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00003
+  rotate: false
+  xy: 1762, 72
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00004
+  rotate: true
+  xy: 882, 2
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00005
+  rotate: true
+  xy: 1322, 2
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+Shine
+  rotate: false
+  xy: 248, 1796
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Star1
+  rotate: false
+  xy: 2, 1878
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+Star2
+  rotate: false
+  xy: 151, 1856
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+Star3
+  rotate: false
+  xy: 77, 1878
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+Text_Super
+  rotate: false
+  xy: 2, 1482
+  size: 1114, 234
+  orig: 1114, 234
+  offset: 0, 0
+  index: -1
+Text_Win
+  rotate: false
+  xy: 400, 1718
+  size: 723, 228
+  orig: 723, 228
+  offset: 0, 0
+  index: -1
+
+Spine2D_SuperWin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow
+  rotate: false
+  xy: 2, 2
+  size: 1161, 707
+  orig: 1161, 707
+  offset: 0, 0
+  index: -1
+LLeaf_00021
+  rotate: true
+  xy: 882, 711
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00006
+  rotate: true
+  xy: 2, 1545
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00007
+  rotate: true
+  xy: 442, 1545
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00008
+  rotate: true
+  xy: 882, 1545
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00009
+  rotate: true
+  xy: 1322, 1545
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00010
+  rotate: false
+  xy: 1762, 1383
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00011
+  rotate: true
+  xy: 2, 1267
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00012
+  rotate: true
+  xy: 442, 1267
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00013
+  rotate: true
+  xy: 882, 1267
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00014
+  rotate: true
+  xy: 1322, 1267
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00015
+  rotate: true
+  xy: 2, 989
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00016
+  rotate: true
+  xy: 442, 989
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00017
+  rotate: true
+  xy: 882, 989
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00018
+  rotate: true
+  xy: 1322, 989
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00019
+  rotate: false
+  xy: 1762, 943
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00020
+  rotate: true
+  xy: 2, 711
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
+RLeaf_00021
+  rotate: true
+  xy: 442, 711
+  size: 276, 438
+  orig: 276, 438
+  offset: 0, 0
+  index: -1
